@@ -1,0 +1,44 @@
+version: '3.8'
+services:
+  nginx:
+    container_name: TEST-NGINX
+    image: nginx:stable-alpine
+    restart: unless-stopped
+    volumes:
+      - ./html/:/var/www/html
+      - ./nginx/conf/nginx.conf:/etc/nginx/conf/nginx.conf:ro
+      - ./nginx/conf.d:/etc/nginx/conf.d:ro
+    ports:
+      - "8000:80"
+    networks:
+      - TEST-Network
+
+  php:
+    container_name: TEST-PHP
+    build: ./php
+    restart: unless-stopped
+    volumes:
+      - ./html/:/var/www/html
+    expose:
+      - "9000"
+    networks:
+      - TEST-Network
+
+  mariadb:
+    container_name: TEST-mariadb
+    image: mariadb:latest
+    ports:
+      - "3000:3306"
+    environment:
+      MYSQL_ROOT_PASSWORD: 123456
+    volumes:
+      - mariadb:/var/lib/mysql
+    networks:
+      - TEST-Network
+
+volumes:
+  mariadb:
+
+networks:
+  TEST-Network:
+    driver: bridge
