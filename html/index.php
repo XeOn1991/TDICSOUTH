@@ -1,10 +1,42 @@
-<?php
-$Servername = "mariadb";
-$Username = "root";
-$Password = "123456";
+<!DOCTYPE html>
+<html lang="en-us">
 
-$connect = mysqli_connect($Servername, $Username, $Password);
-if (!$connect) {
-    die("Connection failed: " . mysqli_connect_error());
-}
-echo "Connected successfully";
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="keywords" content="TDICSouth Co.,Ltd.">
+    <meta name="description" content=".....">
+    <meta name="author" content="Piyawat.k">
+    <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+    <title>TDICSouth Co.,Ltd.</title>
+</head>
+
+<body>
+
+    <header>
+
+    </header>
+
+    <main>
+
+        <article class="">
+
+        </article>
+
+        <article class="">
+
+        </article>
+
+        <article class="">
+
+        </article>
+
+    </main>
+
+    <footer>
+
+    </footer>
+
+</body>
+
+</html>
