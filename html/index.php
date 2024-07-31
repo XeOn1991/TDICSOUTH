@@ -13,39 +13,37 @@
 
 <body>
 
-    <header class="index-header">
-        
-        <img id="index-header-img" src="/html/" alt="TDICSouth Logo">
-
-        <h3 id="index-header-h3">TDICSouth</h3>
-
-        <div id="index-header-div">
-
-        </div>
-
-    </header>
-
     <main>
+        <header id="index-header">
+            <img id="index-header-img" src="/html/Icon/" alt="TDICSouth Logo">
+            <h3 id="index-header-h3">TDICSouth</h3>
+            <nav id="index-header-nav"></nav>
+        </header>
+        <section class="index-main-section">
+            <article class="index-article">
+                <picture>
+                    <img id="index-main-img" src="/html/Icon/" alt="TDICSouth Co,.Ltd.">
+                </picture>
+                <h1>Bulid Up Harmony Manufacture Friendly And Service Priority.</h1>
+                <button type="button">Read More</button>
+            </article>
+        </section>
 
-        <article class="index-main-1">
+        <section class="index-main-section">
 
-        </article>
+            <article class="index-article">
 
-        <article class="index-main-2">
+            </article>
 
-        </article>
+            <article class="index-article">
 
-        <article class="index-main-3">
+            </article>
 
-        </article>
-
-        <article class="index-main-4">
-
-        </article>
+        </section>
 
     </main>
 
-    <footer class="index-footer">
+    <footer class="index-main-footer">
         <nav class="index-nav">
             <a href="">Index</a>
             <a href=""></a>
