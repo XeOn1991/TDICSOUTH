@@ -13,32 +13,43 @@
 
 <body>
 
-    <header>
+    <header class="index-header">
         
-        <img src="" alt="TDICSouth Logo">
+        <img id="index-header-img" src="/html/" alt="TDICSouth Logo">
 
-        
+        <h3 id="index-header-h3">TDICSouth</h3>
+
+        <div id="index-header-div">
+
+        </div>
 
     </header>
 
     <main>
 
-        <article class="">
+        <article class="index-main-1">
 
         </article>
 
-        <article class="">
+        <article class="index-main-2">
 
         </article>
 
-        <article class="">
+        <article class="index-main-3">
+
+        </article>
+
+        <article class="index-main-4">
 
         </article>
 
     </main>
 
-    <footer>
-
+    <footer class="index-footer">
+        <nav class="index-nav">
+            <a href="">Index</a>
+            <a href=""></a>
+        </nav>
     </footer>
 
 </body>
