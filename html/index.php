@@ -32,11 +32,119 @@
         <section class="index-main-section">
 
             <article class="index-article">
-
+                <header>
+                    <h1>TDICS News</h1>
+                </header>
+                <section class="section-news">
+                    <figure>
+                        <img class="img-news" src="/html/Icon/" alt="tdics news">
+                    </figure>
+                    <h3>ทีดิก เซาท์เข้าร่วมงาน</h3>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus faucibus orci ut purus placerat, a fringilla eros bibendum. Donec id elit nec orci lacinia posuere eget at tortor. Donec nec lectus fermentum nulla pretium placerat. Nunc pharetra nibh nec orci vehicula pulvinar. Ut a eleifend est. Duis pellentesque diam in orci semper molestie et vestibulum lorem. Curabitur molestie risus sit amet leo ullamcorper, ac tincidunt est fringilla.</p>
+                </section>
+                <section class="section-news">
+                    <figure>
+                        <img class="img-news" src="/html/Icon/" alt="tdics news">
+                    </figure>
+                    <h3>ทีดิก เซาท์เข้าร่วมงาน</h3>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus faucibus orci ut purus placerat, a fringilla eros bibendum. Donec id elit nec orci lacinia posuere eget at tortor. Donec nec lectus fermentum nulla pretium placerat. Nunc pharetra nibh nec orci vehicula pulvinar. Ut a eleifend est. Duis pellentesque diam in orci semper molestie et vestibulum lorem. Curabitur molestie risus sit amet leo ullamcorper, ac tincidunt est fringilla.</p>
+                </section>
+                <section class="section-news">
+                    <figure>
+                        <img class="img-news" src="" alt="tdics news">
+                    </figure>
+                    <h3>ทีดิก เซาท์เข้าร่วมงาน</h3>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus faucibus orci ut purus placerat, a fringilla eros bibendum. Donec id elit nec orci lacinia posuere eget at tortor. Donec nec lectus fermentum nulla pretium placerat. Nunc pharetra nibh nec orci vehicula pulvinar. Ut a eleifend est. Duis pellentesque diam in orci semper molestie et vestibulum lorem. Curabitur molestie risus sit amet leo ullamcorper, ac tincidunt est fringilla.</p>
+                </section>
+                <footer>
+                    <h2>Read More.....</h2>
+                    <hr>
+                </footer>
             </article>
 
             <article class="index-article">
+                <header>
+                    <h1>TDICS Products</h1>
+                </header>
+                <section class="section-product">
+                    <figure>
+                        <img class="img-product" src="" alt="tdics product">
+                    </figure>
+                    <h3>Glue G-001</h3>
+                </section>
+                <section class="section-product">
+                    <figure>
+                        <img class="img-product" src="" alt="tdics product">
+                    </figure>
+                    <h3>Glue G-002</h3>
+                </section>
+                <section class="section-product">
+                    <figure>
+                        <img class="img-product" src="" alt="tdics product">
+                    </figure>
+                    <h3>Glue G-003</h3>
+                </section>
+                <section class="section-product">
+                    <figure>
+                        <img class="img-product" src="" alt="tdics product">
+                    </figure>
+                    <h3>Glue G-004</h3>
+                </section>
+                <section>
+                    <figure>
+                        <img class="img-product" src="" alt="tdics Product">
+                    </figure>
+                    <h3>Glue G-005</h3>
+                </section>
+                <footer>
+                    <h2>Read More.....</h2>
+                    <hr>
+                </footer>
+            </article>
 
+            <article class="index-article">
+                <header>
+                    <h1>Certificates</h1>
+                </header>
+                <section class="section-iso">
+                    <figure>
+                        <img class="img-iso" src="" alt="tdics iso">
+                    </figure>
+                    <h3>ISO 9001 : 2015 Year 2024</h3>
+                </section>
+                <section>
+                    <figure>
+                        <img class="img-iso" src="" alt="tdics iso">
+                    </figure>
+                </section>
+                <footer>
+                    <h2>Read More.....</h2>
+                    <hr>
+                </footer>
+            </article>
+
+            <article class="index-article">
+                <header>
+                    <h1>TDICS Achievement</h1>
+                </header>
+                <section class="section-achieve">
+                    <figure>
+                        <img class="img-achieve" src="" alt="tdics achievement">
+                    </figure>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus faucibus orci ut purus placerat, a fringilla eros bibendum. Donec id elit nec orci lacinia posuere eget at tortor. Donec nec lectus fermentum nulla pretium placerat. Nunc pharetra nibh nec orci vehicula pulvinar. Ut a eleifend est. Duis pellentesque diam in orci semper molestie et vestibulum lorem. Curabitur molestie risus sit amet leo ullamcorper, ac tincidunt est fringilla.</p>
+                </section>
+                <section class="section-achieve">
+                    <figure>
+                        <img class="img-achieve">
+                    </figure>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus faucibus orci ut purus placerat, a fringilla eros bibendum. Donec id elit nec orci lacinia posuere eget at tortor. Donec nec lectus fermentum nulla pretium placerat. Nunc pharetra nibh nec orci vehicula pulvinar. Ut a eleifend est. Duis pellentesque diam in orci semper molestie et vestibulum lorem. Curabitur molestie risus sit amet leo ullamcorper, ac tincidunt est fringilla.</p>
+                </section>
+                <section class="section-achieve">
+                    <figure>
+                        <img class="img-achieve" src="" alt="tdics achievement">
+                    </figure>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus faucibus orci ut purus placerat, a fringilla eros bibendum. Donec id elit nec orci lacinia posuere eget at tortor. Donec nec lectus fermentum nulla pretium placerat. Nunc pharetra nibh nec orci vehicula pulvinar. Ut a eleifend est. Duis pellentesque diam in orci semper molestie et vestibulum lorem. Curabitur molestie risus sit amet leo ullamcorper, ac tincidunt est fringilla.</p>
+                </section>
             </article>
 
         </section>
@@ -46,7 +154,13 @@
     <footer class="index-main-footer">
         <nav class="index-nav">
             <a href="">Index</a>
-            <a href=""></a>
+            <a href="">News</a>
+            <a href="">Products</a>
+            <a href="">CMS TDICS</a>
+            <a href="">About Us</a>
+            <a href="">Contact Us</a>
+            <a href="">FAQs</a>
+            <a href="">Terms And Conditions</a>
         </nav>
     </footer>
 
