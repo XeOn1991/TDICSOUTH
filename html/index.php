@@ -145,6 +145,10 @@
                     </figure>
                     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus faucibus orci ut purus placerat, a fringilla eros bibendum. Donec id elit nec orci lacinia posuere eget at tortor. Donec nec lectus fermentum nulla pretium placerat. Nunc pharetra nibh nec orci vehicula pulvinar. Ut a eleifend est. Duis pellentesque diam in orci semper molestie et vestibulum lorem. Curabitur molestie risus sit amet leo ullamcorper, ac tincidunt est fringilla.</p>
                 </section>
+                <footer>
+                    <h2>Read More.....</h2>
+                    <hr>
+                </footer>
             </article>
 
             <article class="index-article">
@@ -152,14 +156,27 @@
                     <h1>TDICS Contact</h1>
                 </header>
                 <section class="section-contact">
-
+                    <figure>
+                        <img class="img-contact" src="" alt="tdics contact">
+                    </figure>
+                    <h2>Sale@tdicsouth.com</h2>
                 </section>
                 <section class="section-contact">
-
+                    <figure>
+                        <img class="img-contact" src="" alt="tdics contact">
+                    </figure>
+                    <h2>074-000-000</h2>
                 </section>
                 <section class="section-contact">
-
+                    <figure>
+                        <img class="img-contact" src="" alt="tdics contact">
+                    </figure>
+                    <h2>89 Moo 9</h2>
                 </section>
+                <footer>
+                    <h2>Read More.....</h2>
+                    <hr>
+                </footer>
             </article>
 
         </section>
