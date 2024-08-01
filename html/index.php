@@ -147,6 +147,21 @@
                 </section>
             </article>
 
+            <article class="index-article">
+                <header>
+                    <h1>TDICS Contact</h1>
+                </header>
+                <section class="section-contact">
+
+                </section>
+                <section class="section-contact">
+
+                </section>
+                <section class="section-contact">
+
+                </section>
+            </article>
+
         </section>
 
     </main>
