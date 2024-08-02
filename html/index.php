@@ -8,7 +8,7 @@
     <meta name="description" content=".....">
     <meta name="author" content="Piyawat.k">
     <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
-    <link rel="stylesheet" type="text/css" href="/css/tdics-style.css">
+    <link rel="stylesheet" type="text/css" href="/CSS/tdics-style.css">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Mitr" rel="stylesheet">
@@ -17,8 +17,8 @@
 
 <body>
     <header id="index-header">
-        <img id="index-header-logo" src="/icon/tdics-logo.png" alt="tdics logo">
-        <img id="index-header-menu" src="/icon/menu.png" alt="tdics menu">
+        <img id="index-header-logo" src="/Icon/tdics-logo.webp" alt="tdics logo">
+        <img id="index-header-menu" src="/Icon/menu.webp" alt="tdics menu">
     </header>
     <article class="index-main-header">
         <section class="index-main-article">
