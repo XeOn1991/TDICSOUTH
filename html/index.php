@@ -8,27 +8,26 @@
     <meta name="description" content=".....">
     <meta name="author" content="Piyawat.k">
     <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+    <link rel="stylesheet" type="text/css" href="/css/tdics-style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Mitr" rel="stylesheet">
     <title>TDICSouth Co.,Ltd.</title>
 </head>
 
 <body>
+    <header id="index-header">
+        <img id="index-header-logo" src="/icon/tdics-logo.png" alt="tdics logo">
+        <img id="index-header-menu" src="/icon/menu.png" alt="tdics menu">
+    </header>
+    <article class="index-main-header">
+        <section class="index-main-article">
+            <h1>"Bulid Up Harmony Manufacture Friendly And Service Priority"</h1>
+            <button id="index-main-article-button" type="button">Read More</button>
+        </section>
+    </article>
 
     <main>
-        <header id="index-header">
-            <img id="index-header-img" src="/html/Icon/" alt="TDICSouth Logo">
-            <h3 id="index-header-h3">TDICSouth</h3>
-            <nav id="index-header-nav"></nav>
-        </header>
-        <section class="index-main-section">
-            <article class="index-article">
-                <picture>
-                    <img id="index-main-img" src="/html/Icon/" alt="TDICSouth Co,.Ltd.">
-                </picture>
-                <h1>Bulid Up Harmony Manufacture Friendly And Service Priority.</h1>
-                <button type="button">Read More</button>
-            </article>
-        </section>
-
         <section class="index-main-section">
 
             <article class="index-article">
