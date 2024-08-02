@@ -30,18 +30,18 @@
     <main>
         <section class="index-main-section">
 
-            <article class="index-article">
+            <article class="index-article" style="margin: 1.5rem;">
                 <header>
-                    <h1>TDICS News</h1>
+                    <h1 style="text-align: center; margin: 0;">TDICS NEWS</h1>
                 </header>
                 <section class="section-news">
-                    <figure>
-                        <img class="img-news" src="/html/Icon/" alt="tdics news">
-                    </figure>
-                    <h3>ทีดิก เซาท์เข้าร่วมงาน</h3>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus faucibus orci ut purus placerat, a fringilla eros bibendum. Donec id elit nec orci lacinia posuere eget at tortor. Donec nec lectus fermentum nulla pretium placerat. Nunc pharetra nibh nec orci vehicula pulvinar. Ut a eleifend est. Duis pellentesque diam in orci semper molestie et vestibulum lorem. Curabitur molestie risus sit amet leo ullamcorper, ac tincidunt est fringilla.</p>
+                    <img class="img-news" src="/Icon/News.webp" alt="tdics news">
+                    <article class="article-detail" style="margin-left: 1rem;">
+                        <h1>ทีดิก เซาท์เข้าร่วมงาน</h1>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus faucibus orci ut purus placerat, a fringilla eros bibendum.</p>
+                    </article>
                 </section>
-                <section class="section-news">
+                <!--<section class="section-news">
                     <figure>
                         <img class="img-news" src="/html/Icon/" alt="tdics news">
                     </figure>
@@ -54,9 +54,9 @@
                     </figure>
                     <h3>ทีดิก เซาท์เข้าร่วมงาน</h3>
                     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus faucibus orci ut purus placerat, a fringilla eros bibendum. Donec id elit nec orci lacinia posuere eget at tortor. Donec nec lectus fermentum nulla pretium placerat. Nunc pharetra nibh nec orci vehicula pulvinar. Ut a eleifend est. Duis pellentesque diam in orci semper molestie et vestibulum lorem. Curabitur molestie risus sit amet leo ullamcorper, ac tincidunt est fringilla.</p>
-                </section>
+                </section>-->
                 <footer>
-                    <h2>Read More.....</h2>
+                    <h3>Read More.....</h3>
                     <hr>
                 </footer>
             </article>

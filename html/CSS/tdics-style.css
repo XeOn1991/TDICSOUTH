@@ -65,4 +65,27 @@ body, html {
 
 /* Main Background Picture, Text, Button */
 
+/* Main News Picture, Text, Other*/
 
+.section-news {
+    display: flex;
+    flex-wrap: nowrap;
+}
+
+.section-news > h1,p {
+    flex: 50%;
+}
+
+.article-detail > p {
+    font-size: 10px;
+}
+
+.img-news {
+    flex: 50%;
+    width: 50%; 
+    height: auto;
+}
+
+
+
+/* Main News Picture, Text, Other*/
