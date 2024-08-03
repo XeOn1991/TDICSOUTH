@@ -7,7 +7,7 @@
     <meta name="keywords" content="TDICSouth Co.,Ltd.">
     <meta name="description" content=".....">
     <meta name="author" content="Piyawat.k">
-    <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+    <link rel="shortcut icon" href="/Icon/tdics-logo.webp" type="image/x-icon">
     <link rel="stylesheet" type="text/css" href="/CSS/tdics-style.css">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -32,36 +32,37 @@
 
             <article class="index-article" style="margin: 1.5rem;">
                 <header>
-                    <h1 style="text-align: center; margin: 0;">TDICS NEWS</h1>
+                    <h1 style="text-align: center; margin: 0; font-size:8vw;">TDICS NEWS</h1>
                 </header>
                 <section class="section-news">
                     <img class="img-news" src="/Icon/News.webp" alt="tdics news">
-                    <article class="article-detail" style="margin-left: 1rem;">
-                        <h1>ทีดิก เซาท์เข้าร่วมงาน</h1>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus faucibus orci ut purus placerat, a fringilla eros bibendum.</p>
+                    <article class="article-detail" style="margin:auto;margin-left: 1.5rem;">
+                        <h1 style="margin:0;font-size: 5vw;">ทีดิก เซาท์เข้าร่วมงาน</h1>
+                        <p style="font-size: 3vw;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus faucibus orci ut purus placerat, a fringilla eros bibendum.</p>
                     </article>
                 </section>
-                <!--<section class="section-news">
-                    <figure>
-                        <img class="img-news" src="/html/Icon/" alt="tdics news">
-                    </figure>
-                    <h3>ทีดิก เซาท์เข้าร่วมงาน</h3>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus faucibus orci ut purus placerat, a fringilla eros bibendum. Donec id elit nec orci lacinia posuere eget at tortor. Donec nec lectus fermentum nulla pretium placerat. Nunc pharetra nibh nec orci vehicula pulvinar. Ut a eleifend est. Duis pellentesque diam in orci semper molestie et vestibulum lorem. Curabitur molestie risus sit amet leo ullamcorper, ac tincidunt est fringilla.</p>
+                <section class="section-news">
+                    <img class="img-news" src="/Icon/News.webp" alt="tdics news">
+                    <article class="article-detail" style="margin:auto;margin-left: 1.5rem;">
+                        <h1 style="margin:0;font-size: 5vw;">ทีดิก เซาท์เข้าร่วมงาน</h1>
+                        <p style="font-size: 3vw;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus faucibus orci ut purus placerat, a fringilla eros bibendum.</p>
+                    </article>
                 </section>
                 <section class="section-news">
-                    <figure>
-                        <img class="img-news" src="" alt="tdics news">
-                    </figure>
-                    <h3>ทีดิก เซาท์เข้าร่วมงาน</h3>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus faucibus orci ut purus placerat, a fringilla eros bibendum. Donec id elit nec orci lacinia posuere eget at tortor. Donec nec lectus fermentum nulla pretium placerat. Nunc pharetra nibh nec orci vehicula pulvinar. Ut a eleifend est. Duis pellentesque diam in orci semper molestie et vestibulum lorem. Curabitur molestie risus sit amet leo ullamcorper, ac tincidunt est fringilla.</p>
-                </section>-->
+                    <img class="img-news" src="/Icon/News.webp" alt="tdics news">
+                    <article class="article-detail" style="margin:auto;margin-left: 1.5rem;">
+                        <h1 style="margin:0;font-size: 5vw;">ทีดิก เซาท์เข้าร่วมงาน</h1>
+                        <p style="font-size: 3vw;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus faucibus orci ut purus placerat, a fringilla eros bibendum.</p>
+                    </article>
+                </section>
+                
                 <footer>
                     <h3>Read More.....</h3>
-                    <hr>
+                    <hr style="border: 1.5px solid #D9D9D9;border-radius: 5px;">
                 </footer>
             </article>
 
-            <article class="index-article">
+            <!--<article class="index-article">
                 <header>
                     <h1>TDICS Products</h1>
                 </header>
@@ -99,9 +100,9 @@
                     <h2>Read More.....</h2>
                     <hr>
                 </footer>
-            </article>
+            </article>-->
 
-            <article class="index-article">
+            <!--<article class="index-article">
                 <header>
                     <h1>Certificates</h1>
                 </header>
@@ -120,9 +121,9 @@
                     <h2>Read More.....</h2>
                     <hr>
                 </footer>
-            </article>
+            </article>-->
 
-            <article class="index-article">
+            <!--<article class="index-article">
                 <header>
                     <h1>TDICS Achievement</h1>
                 </header>
@@ -148,9 +149,9 @@
                     <h2>Read More.....</h2>
                     <hr>
                 </footer>
-            </article>
+            </article>-->
 
-            <article class="index-article">
+            <!--<article class="index-article">
                 <header>
                     <h1>TDICS Contact</h1>
                 </header>
@@ -176,7 +177,7 @@
                     <h2>Read More.....</h2>
                     <hr>
                 </footer>
-            </article>
+            </article>-->
 
         </section>
 
