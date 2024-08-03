@@ -57,7 +57,7 @@
                 </section>
                 
                 <footer>
-                    <h3>Read More.....</h3>
+                    <h4 style="text-align: right; margin: 0; font-size:5vw;">Read More</h4>
                     <hr style="border: 1.5px solid #D9D9D9;border-radius: 5px;">
                 </footer>
             </article>
