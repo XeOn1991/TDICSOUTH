@@ -22,7 +22,7 @@
     </header>
     <article class="index-main-header">
         <section class="index-main-article">
-            <h1>"Bulid Up Harmony Manufacture Friendly And Service Priority"</h1>
+            <h1 style="font-size:6vw;">"Bulid Up Harmony Manufacture Friendly And Service Priority"</h1>
             <button id="index-main-article-button" type="button">Read More</button>
         </section>
     </article>
@@ -55,129 +55,49 @@
                         <p style="font-size: 3vw;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus faucibus orci ut purus placerat, a fringilla eros bibendum.</p>
                     </article>
                 </section>
-                
                 <footer>
                     <h4 style="text-align: right; margin: 0; font-size:5vw;">Read More</h4>
                     <hr style="border: 1.5px solid #D9D9D9;border-radius: 5px;">
                 </footer>
             </article>
 
-            <!--<article class="index-article">
+            <article class="index-product" style="margin: 1.5rem;">
                 <header>
-                    <h1>TDICS Products</h1>
+                    <h1 style="text-align: center; margin: 0; font-size:8vw;">TDICS Products</h1>
                 </header>
-                <section class="section-product">
-                    <figure>
-                        <img class="img-product" src="" alt="tdics product">
-                    </figure>
-                    <h3>Glue G-001</h3>
-                </section>
-                <section class="section-product">
-                    <figure>
-                        <img class="img-product" src="" alt="tdics product">
-                    </figure>
-                    <h3>Glue G-002</h3>
-                </section>
-                <section class="section-product">
-                    <figure>
-                        <img class="img-product" src="" alt="tdics product">
-                    </figure>
-                    <h3>Glue G-003</h3>
-                </section>
-                <section class="section-product">
-                    <figure>
-                        <img class="img-product" src="" alt="tdics product">
-                    </figure>
-                    <h3>Glue G-004</h3>
-                </section>
-                <section>
-                    <figure>
-                        <img class="img-product" src="" alt="tdics Product">
-                    </figure>
-                    <h3>Glue G-005</h3>
-                </section>
+                <article class="index-product-main">
+                    <section class="section-product">
+                        <img class="img-product" style="max-width: 220px;height: auto;" src="/Icon/Chemical.webp" alt="tdics product">
+                        <article class="article-detail" style="margin:1rem;">
+                            <h1 style="margin:0;font-size: 5vw;text-align: center;">Glues-0001</h1>
+                        </article>
+                    </section>
+                    <section class="section-product">
+                        <img class="img-product" style="max-width: 220px;height: auto;" src="/Icon/Chemical.webp" alt="tdics product">
+                        <article class="article-detail" style="margin:1rem;">
+                            <h1 style="margin:0;font-size: 5vw;text-align: center;">Glues-0001</h1>
+                        </article>
+                    </section>
+                    <section class="section-product">
+                        <img class="img-product" style="max-width: 220px;height: auto;" src="/Icon/Chemical.webp" alt="tdics product">
+                        <article class="article-detail" style="margin:1rem;">
+                            <h1 style="margin:0;font-size: 5vw;text-align: center;">Glues-0001</h1>
+                        </article>
+                    </section>
+                    <section class="section-product">
+                        <img class="img-product" style="max-width: 220px;height: auto;" src="/Icon/Chemical.webp" alt="tdics product">
+                        <article class="article-detail" style="margin:1rem;">
+                            <h1 style="margin:0;font-size: 5vw;text-align: center;">Glues-0001</h1>
+                        </article>
+                    </section>
+                </article>
                 <footer>
-                    <h2>Read More.....</h2>
-                    <hr>
+                    <h4 style="text-align: right; margin: 0; font-size:5vw;">Read More</h4>
+                    <hr style="border: 1.5px solid #D9D9D9;border-radius: 5px;">
                 </footer>
-            </article>-->
+            </article>
 
-            <!--<article class="index-article">
-                <header>
-                    <h1>Certificates</h1>
-                </header>
-                <section class="section-iso">
-                    <figure>
-                        <img class="img-iso" src="" alt="tdics iso">
-                    </figure>
-                    <h3>ISO 9001 : 2015 Year 2024</h3>
-                </section>
-                <section>
-                    <figure>
-                        <img class="img-iso" src="" alt="tdics iso">
-                    </figure>
-                </section>
-                <footer>
-                    <h2>Read More.....</h2>
-                    <hr>
-                </footer>
-            </article>-->
-
-            <!--<article class="index-article">
-                <header>
-                    <h1>TDICS Achievement</h1>
-                </header>
-                <section class="section-achieve">
-                    <figure>
-                        <img class="img-achieve" src="" alt="tdics achievement">
-                    </figure>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus faucibus orci ut purus placerat, a fringilla eros bibendum. Donec id elit nec orci lacinia posuere eget at tortor. Donec nec lectus fermentum nulla pretium placerat. Nunc pharetra nibh nec orci vehicula pulvinar. Ut a eleifend est. Duis pellentesque diam in orci semper molestie et vestibulum lorem. Curabitur molestie risus sit amet leo ullamcorper, ac tincidunt est fringilla.</p>
-                </section>
-                <section class="section-achieve">
-                    <figure>
-                        <img class="img-achieve">
-                    </figure>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus faucibus orci ut purus placerat, a fringilla eros bibendum. Donec id elit nec orci lacinia posuere eget at tortor. Donec nec lectus fermentum nulla pretium placerat. Nunc pharetra nibh nec orci vehicula pulvinar. Ut a eleifend est. Duis pellentesque diam in orci semper molestie et vestibulum lorem. Curabitur molestie risus sit amet leo ullamcorper, ac tincidunt est fringilla.</p>
-                </section>
-                <section class="section-achieve">
-                    <figure>
-                        <img class="img-achieve" src="" alt="tdics achievement">
-                    </figure>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus faucibus orci ut purus placerat, a fringilla eros bibendum. Donec id elit nec orci lacinia posuere eget at tortor. Donec nec lectus fermentum nulla pretium placerat. Nunc pharetra nibh nec orci vehicula pulvinar. Ut a eleifend est. Duis pellentesque diam in orci semper molestie et vestibulum lorem. Curabitur molestie risus sit amet leo ullamcorper, ac tincidunt est fringilla.</p>
-                </section>
-                <footer>
-                    <h2>Read More.....</h2>
-                    <hr>
-                </footer>
-            </article>-->
-
-            <!--<article class="index-article">
-                <header>
-                    <h1>TDICS Contact</h1>
-                </header>
-                <section class="section-contact">
-                    <figure>
-                        <img class="img-contact" src="" alt="tdics contact">
-                    </figure>
-                    <h2>Sale@tdicsouth.com</h2>
-                </section>
-                <section class="section-contact">
-                    <figure>
-                        <img class="img-contact" src="" alt="tdics contact">
-                    </figure>
-                    <h2>074-000-000</h2>
-                </section>
-                <section class="section-contact">
-                    <figure>
-                        <img class="img-contact" src="" alt="tdics contact">
-                    </figure>
-                    <h2>89 Moo 9</h2>
-                </section>
-                <footer>
-                    <h2>Read More.....</h2>
-                    <hr>
-                </footer>
-            </article>-->
+            
 
         </section>
 
@@ -195,7 +115,6 @@
             <a href="">Terms And Conditions</a>
         </nav>
     </footer>
-
 </body>
 
 </html>
