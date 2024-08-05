@@ -97,17 +97,37 @@
                 </footer>
             </article>
 
-            <article  class="index-product" style="margin: 1.5rem;">
+            <article class="index-Cert" style="margin: 1.5rem;">
                 <header>
-                    <h1 style="text-align:center; margin: 0; font-size:8vw;">TDICS Products</h1>
+                    <h1 style="text-align:center; margin: 0; font-size:8vw;">TDICS Certificate</h1>
                 </header>
-                <article class="index-achivement-main">
-                    <img src="/html/Icon/" style="max-width: 220px;height:auto;" alt="tdics achivement">
+                <article class="index-Cert-main">
+                    <section class="section-Cert">
+                        <img class="img-" style="max-width: 180px;height: auto;" src="/Icon/iso.webp" alt="tdics Cert">
+                        <article class="Cert-detail" style="margin:1rem;">
+                            <h1 style="margin:0;font-size: 5vw;text-align: center;">ISO 9001:2015</h1>
+                            <p style="font-size: 3vw;text-align: center;">ISO 9001 เป็นมาตรฐานระบบการจัดการคุณภาพ (QMS) ที่เป็นที่ยอมรับในระดับสากล ซึ่งจะเป็นประโยชน์ต่อองค์กรทุกขนาด</p>
+                        </article>
+                    </section>
+                    <section class="section-Cert">
+                        <img class="img-" style="max-width: 180px;height: auto;" src="/Icon/iso.webp" alt="tdics Cert">
+                        <article class="Cert-detail" style="margin:1rem;">
+                            <h1 style="margin:0;font-size: 5vw;text-align: center;">ISO 9001:2015</h1>
+                            <p style="font-size: 3vw;text-align: center;">ISO 9001 เป็นมาตรฐานระบบการจัดการคุณภาพ (QMS) ที่เป็นที่ยอมรับในระดับสากล ซึ่งจะเป็นประโยชน์ต่อองค์กรทุกขนาด</p>
+                        </article>
+                    </section>
+                    <section class="section-Cert">
+                        <img class="img-" style="max-width: 180px;height: auto;" src="/Icon/iso.webp" alt="tdics Cert">
+                        <article class="Cert-detail" style="margin:1rem;">
+                            <h1 style="margin:0;font-size: 5vw;text-align: center;">ISO 9001:2015</h1>
+                            <p style="font-size: 3vw;text-align: center;">ISO 9001 เป็นมาตรฐานระบบการจัดการคุณภาพ (QMS) ที่เป็นที่ยอมรับในระดับสากล ซึ่งจะเป็นประโยชน์ต่อองค์กรทุกขนาด</p>
+                        </article>
+                    </section>
                 </article>
             </article>
 
-        </section>
 
+        </section>
     </main>
 
     <footer class="index-main-footer">
