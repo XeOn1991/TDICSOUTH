@@ -97,7 +97,14 @@
                 </footer>
             </article>
 
-            
+            <article  class="index-product" style="margin: 1.5rem;">
+                <header>
+                    <h1 style="text-align:center; margin: 0; font-size:8vw;">TDICS Products</h1>
+                </header>
+                <article class="index-achivement-main">
+                    <img src="/html/Icon/" style="max-width: 220px;height:auto;" alt="tdics achivement">
+                </article>
+            </article>
 
         </section>
 
