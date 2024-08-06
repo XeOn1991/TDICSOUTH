@@ -109,3 +109,36 @@ body, html {height: 100%;width: 100%;margin: 0;font-family: "Mitr", sans-serif;t
 }
 
 /* Main Achie Picture, Text, Other*/
+
+/* Main Contact Picture, Text, Other*/
+
+.index-contact-main {
+    display: flex;
+    flex-direction: column;
+}
+
+.section-contact{
+    margin: 1.5rem 0 0 0;
+}
+
+/* Main contact Picture, Text, Other*/
+
+.index-main-footer {
+    display: flex;
+    margin: 1.5rem;
+}
+
+#index-nav-left {
+    display: flex;
+    flex-direction: column;
+    flex: 50%;
+	float: left;
+    text-align: left;
+}
+#index-nav-right {
+    display: flex;
+    flex-direction: column;
+    flex: 50%;
+	float: right;
+    text-align: right;
+}

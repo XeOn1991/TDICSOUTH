@@ -29,7 +29,6 @@
 
     <main>
         <section class="index-main-section">
-
             <article class="index-article" style="margin: 1.5rem;">
                 <header>
                     <h1 style="text-align: center; margin: 0; font-size:8vw;">TDICS NEWS</h1>
@@ -60,7 +59,6 @@
                     <hr style="border: 1.5px solid #D9D9D9;border-radius: 5px;">
                 </footer>
             </article>
-
             <article class="index-product" style="margin: 1.5rem;">
                 <header>
                     <h1 style="text-align: center; margin: 0; font-size:8vw;">TDICS Products</h1>
@@ -96,7 +94,6 @@
                     <hr style="border: 1.5px solid #D9D9D9;border-radius: 5px;">
                 </footer>
             </article>
-
             <article class="index-Cert" style="margin: 1.5rem;">
                 <header>
                     <h1 style="text-align:center; margin: 0; font-size:8vw;">TDICS Certificate</h1>
@@ -129,7 +126,6 @@
                     <hr style="border: 1.5px solid #D9D9D9;border-radius: 5px;">
                 </footer>
             </article>
-
             <article class="index-achie" style="margin: 1.5rem;">
                 <header>
                     <h1 style="text-align: center; margin: 0; font-size:8vw;">TDICS Achievement</h1>
@@ -155,22 +151,46 @@
                     <hr style="border: 1.5px solid #D9D9D9;border-radius: 5px;">
                 </footer>
             </article>
-
-            <article class="index-contact">
+            <article class="index-contact" style="margin: 1.5rem;">
                 <header>
                     <h1 style="text-align:center; margin: 0; font-size:8vw;">TDICS Contact</h1>
                 </header>
+                <article class="index-contact-main">
+                    <section class="section-contact">
+                        <img style="display:block;margin-left:auto;margin-right:auto;max-width:80px;" src="/Icon/email.webp" alt="tdics contact">
+                        <article class="contact-detail" style="margin: 1rem;">
+                            <h1 style="margin:0; font-size:5vw; text-align:center;">Sale@tdicsouth.com</h1>
+                        </article>
+                    </section>
+                    <section class="section-contact">
+                        <img style="display:block;margin-left:auto;margin-right:auto;max-width:80px;" src="/Icon/email.webp" alt="tdics contact">
+                        <article class="contact-detail" style="margin: 1rem;">
+                            <h1 style="margin:0; font-size:5vw; text-align:center;">Sale@tdicsouth.com</h1>
+                        </article>
+                    </section>
+                    <section class="section-contact">
+                        <img style="display:block;margin-left:auto;margin-right:auto;max-width:80px;" src="/Icon/email.webp" alt="tdics contact">
+                        <article class="contact-detail" style="margin: 1rem;">
+                            <h1 style="margin:0; font-size:5vw; text-align:center;">Sale@tdicsouth.com</h1>
+                        </article>
+                    </section>
+                </article>
+                <footer>
+                    <h4 style="text-align: right; margin: 0; font-size:5vw;">Read More</h4>
+                    <hr style="border: 1.5px solid #D9D9D9;border-radius: 5px;">
+                </footer>
             </article>
-
         </section>
     </main>
 
     <footer class="index-main-footer">
-        <nav class="index-nav">
+        <nav id="index-nav-left">
             <a href="">Index</a>
             <a href="">News</a>
             <a href="">Products</a>
             <a href="">CMS TDICS</a>
+        </nav>
+        <nav id="index-nav-right">
             <a href="">About Us</a>
             <a href="">Contact Us</a>
             <a href="">FAQs</a>
