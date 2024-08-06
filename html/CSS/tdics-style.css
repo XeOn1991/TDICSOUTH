@@ -2,24 +2,9 @@ body, html {height: 100%;width: 100%;margin: 0;font-family: "Mitr", sans-serif;t
 
 /* Header Logo, Text, Menu */
 
-#index-header-logo{
-    position: absolute;
-    top: 0;
-    z-index: +1;
-    max-width: 10%;
-    margin: 0.3rem;
-    filter: drop-shadow(1px 1px 1px rgba(0, 0, 0, 0.5));
-}
+#index-header-logo{position: absolute;top: 0;z-index: +1;max-width: 10%;margin: 0.3rem;filter: drop-shadow(1px 1px 1px rgba(0, 0, 0, 0.5));}
 
-#index-header-menu {
-    position: absolute;
-    top: 0;
-    right: 0;
-    z-index: +1;
-    width: 10%;
-    margin: 0.3rem;
-    filter: drop-shadow(1px 1px 1px rgba(0, 0, 0, 0.5));
-}
+#index-header-menu {position: absolute;top: 0;right: 0;z-index: +1;width: 10%;margin: 0.3rem;filter: drop-shadow(1px 1px 1px rgba(0, 0, 0, 0.5));}
 
 /* Header Logo, Text, Menu */
 
@@ -95,6 +80,9 @@ body, html {height: 100%;width: 100%;margin: 0;font-family: "Mitr", sans-serif;t
 
 /* Main Product Picture, Text, Other*/
 
+
+/* Main Cert Picture, Text, Other*/
+
 .index-Cert-main {
     display: flex;
     flex-direction: row;
@@ -109,3 +97,15 @@ body, html {height: 100%;width: 100%;margin: 0;font-family: "Mitr", sans-serif;t
     justify-content: center;
     align-items: center;
 }
+
+/* Main Cert Picture, Text, Other*/
+
+/* Main Achie Picture, Text, Other*/
+
+.index-achie-main {
+    display: flex;
+    flex-direction: row;
+    overflow: auto;
+}
+
+/* Main Achie Picture, Text, Other*/

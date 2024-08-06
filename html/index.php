@@ -103,29 +103,64 @@
                 </header>
                 <article class="index-Cert-main">
                     <section class="section-Cert">
-                        <img class="img-" style="max-width: 180px;height: auto;" src="/Icon/iso.webp" alt="tdics Cert">
+                        <img class="img-cert" style="max-width: 180px;height: auto;" src="/Icon/iso.webp" alt="tdics cert">
                         <article class="Cert-detail" style="margin:1rem;">
                             <h1 style="margin:0;font-size: 5vw;text-align: center;">ISO 9001:2015</h1>
                             <p style="font-size: 3vw;text-align: center;">ISO 9001 เป็นมาตรฐานระบบการจัดการคุณภาพ (QMS) ที่เป็นที่ยอมรับในระดับสากล ซึ่งจะเป็นประโยชน์ต่อองค์กรทุกขนาด</p>
                         </article>
                     </section>
                     <section class="section-Cert">
-                        <img class="img-" style="max-width: 180px;height: auto;" src="/Icon/iso.webp" alt="tdics Cert">
+                        <img class="img-cert" style="max-width: 180px;height: auto;" src="/Icon/iso.webp" alt="tdics cert">
                         <article class="Cert-detail" style="margin:1rem;">
                             <h1 style="margin:0;font-size: 5vw;text-align: center;">ISO 9001:2015</h1>
                             <p style="font-size: 3vw;text-align: center;">ISO 9001 เป็นมาตรฐานระบบการจัดการคุณภาพ (QMS) ที่เป็นที่ยอมรับในระดับสากล ซึ่งจะเป็นประโยชน์ต่อองค์กรทุกขนาด</p>
                         </article>
                     </section>
                     <section class="section-Cert">
-                        <img class="img-" style="max-width: 180px;height: auto;" src="/Icon/iso.webp" alt="tdics Cert">
+                        <img class="img-cert" style="max-width: 180px;height: auto;" src="/Icon/iso.webp" alt="tdics cert">
                         <article class="Cert-detail" style="margin:1rem;">
                             <h1 style="margin:0;font-size: 5vw;text-align: center;">ISO 9001:2015</h1>
                             <p style="font-size: 3vw;text-align: center;">ISO 9001 เป็นมาตรฐานระบบการจัดการคุณภาพ (QMS) ที่เป็นที่ยอมรับในระดับสากล ซึ่งจะเป็นประโยชน์ต่อองค์กรทุกขนาด</p>
                         </article>
                     </section>
                 </article>
+                <footer>
+                    <h4 style="text-align: right; margin: 0; font-size:5vw;">Read More</h4>
+                    <hr style="border: 1.5px solid #D9D9D9;border-radius: 5px;">
+                </footer>
             </article>
 
+            <article class="index-achie" style="margin: 1.5rem;">
+                <header>
+                    <h1 style="text-align: center; margin: 0; font-size:8vw;">TDICS Achievement</h1>
+                </header>
+                <article class="index-achie-main">
+                    <section class="section-achie">
+                        <img class="img-achie" style="display:block; margin-left:auto; margin-right:auto; max-width: 180px;" src="/Icon/target.webp" alt="tdics achie">
+                        <article class="achie-detail" style="margin:1rem;">
+                            <h1 style="margin:0;font-size: 5vw;text-align: center;">ISO 9001:2015</h1>
+                            <p style="font-size: 3vw;text-align: center;">ISO 9001 เป็นมาตรฐานระบบการจัดการคุณภาพ (QMS) ที่เป็นที่ยอมรับในระดับสากล ซึ่งจะเป็นประโยชน์ต่อองค์กรทุกขนาด</p>
+                        </article>
+                    </section>
+                    <section class="section-achie">
+                        <img class="img-achie" style="display:block; margin-left:auto; margin-right:auto; max-width: 180px;" src="/Icon/target.webp" alt="tdics achie">
+                        <article class="achie-detail" style="margin:1rem;">
+                            <h1 style="margin:0;font-size: 5vw;text-align: center;">ISO 9001:2015</h1>
+                            <p style="font-size: 3vw;text-align: center;">ISO 9001 เป็นมาตรฐานระบบการจัดการคุณภาพ (QMS) ที่เป็นที่ยอมรับในระดับสากล ซึ่งจะเป็นประโยชน์ต่อองค์กรทุกขนาด</p>
+                        </article>
+                    </section>
+                </article>
+                <footer>
+                    <h4 style="text-align: right; margin: 0; font-size:5vw;">Read More</h4>
+                    <hr style="border: 1.5px solid #D9D9D9;border-radius: 5px;">
+                </footer>
+            </article>
+
+            <article class="index-contact">
+                <header>
+                    <h1 style="text-align:center; margin: 0; font-size:8vw;">TDICS Contact</h1>
+                </header>
+            </article>
 
         </section>
     </main>
