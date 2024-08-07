@@ -163,15 +163,15 @@
                         </article>
                     </section>
                     <section class="section-contact">
-                        <img style="display:block;margin-left:auto;margin-right:auto;max-width:80px;" src="/Icon/email.webp" alt="tdics contact">
+                        <img style="display:block;margin-left:auto;margin-right:auto;max-width:80px;" src="/Icon/telephone.webp" alt="tdics contact">
                         <article class="contact-detail" style="margin: 1rem;">
-                            <h1 style="margin:0; font-size:5vw; text-align:center;">Sale@tdicsouth.com</h1>
+                            <h1 style="margin:0; font-size:5vw; text-align:center;">Tel : 074-805969 - 71</h1>
                         </article>
                     </section>
                     <section class="section-contact">
-                        <img style="display:block;margin-left:auto;margin-right:auto;max-width:80px;" src="/Icon/email.webp" alt="tdics contact">
+                        <img style="display:block;margin-left:auto;margin-right:auto;max-width:80px;" src="/Icon/gps.webp" alt="tdics contact">
                         <article class="contact-detail" style="margin: 1rem;">
-                            <h1 style="margin:0; font-size:5vw; text-align:center;">Sale@tdicsouth.com</h1>
+                            <h1 style="margin:0; font-size:5vw; text-align:center;">89 Moo. 4 Chalung, Hat Yai, Songkhla, 90110</h1>
                         </article>
                     </section>
                 </article>
@@ -183,20 +183,30 @@
         </section>
     </main>
 
-    <footer class="index-main-footer">
-        <nav id="index-nav-left">
-            <a href="">Index</a>
-            <a href="">News</a>
-            <a href="">Products</a>
-            <a href="">CMS TDICS</a>
-        </nav>
-        <nav id="index-nav-right">
-            <a href="">About Us</a>
-            <a href="">Contact Us</a>
-            <a href="">FAQs</a>
-            <a href="">Terms And Conditions</a>
-        </nav>
+    <footer class="index-footer">
+        <section class="section-footer">
+            <nav id="index-nav-left">
+                <a href="">Index</a>
+                <a href="">News</a>
+                <a href="">Products</a>
+                <a href="">CMS TDICS</a>
+            </nav>
+            <nav id="index-nav-right">
+                <a href="">About Us</a>
+                <a href="">Contact Us</a>
+                <a href="">FAQs</a>
+                <a href="">Terms And Conditions</a>
+            </nav>
+        </section>
+        <section>
+            <article style="margin: 1.5rem;">
+                <hr style="border: 1.5px solid #D9D9D9;border-radius: 5px;">
+                <h5 style="text-align: center;font-size:3vw;">Copyright @ 2024 TDICSouth.com all rights reserved</h5>
+                <hr style="border: 1.5px solid #F5F5F5;">
+            </article>
+        </section>
     </footer>
+
 </body>
 
 </html>
