@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html lang="en-us">
-
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -14,11 +13,8 @@
     <link href="https://fonts.googleapis.com/css2?family=Mitr" rel="stylesheet">
     <title>TDICSouth Co.,Ltd.</title>
 </head>
-
 <body>
-
     <?php include 'header.php'; ?>
-
     <main>
         <section class="index-main-section">
             <article class="index-article" style="margin: 1.5rem;">
@@ -198,7 +194,5 @@
             </article>
         </section>
     </footer>
-
 </body>
-
 </html>
