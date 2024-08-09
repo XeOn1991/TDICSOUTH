@@ -10,28 +10,11 @@ body, html {height: 100%;width: 100%;margin: 0;font-family: "Mitr", sans-serif;t
 
 /* Main Background Picture, Text, Button */
 
-.index-main-header {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    background-image: url("/Icon/tdics-header.webp");
-    height: 100%;
-    background-position: center;
-    background-repeat: no-repeat ;
-    background-size: cover;
-}
+.index-main-header {display: flex;justify-content: center;align-items: center;background-image: url("/Icon/tdics-header.webp");height: 100%;background-position: center;background-repeat: no-repeat ;background-size: cover;}
 
 .index-main-article {text-align: center;width: 70%;padding: 1rem;color: white;}
 
-#index-main-article-button {
-    font-family: "Mitr", sans-serif;
-    font-size: 18px;
-    padding: 0.5rem;
-    transition-duration: 0.6s;
-    border-radius: 5px;
-    border-style: none;
-    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
-}
+#index-main-article-button {font-family: "Mitr", sans-serif;font-size: 18px;padding: 0.5rem;transition-duration: 0.6s;border-radius: 5px;border-style: none;box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);}
 
 #index-main-article-button:hover {background-color: #001044;color: white;}
 
@@ -39,11 +22,11 @@ body, html {height: 100%;width: 100%;margin: 0;font-family: "Mitr", sans-serif;t
 
 /* Main News Picture, Text, Other*/
 
-.section-news {display: flex;flex-wrap: nowrap;margin: 0.5rem 0 0.5rem 0;}
+.section-news {display: flex;flex-wrap: nowrap;justify-content: center;margin: 0.5rem 0 0.5rem 0;}
 
 .img-news {flex: 50%;max-width: 35%; height: auto;}
 
-.img-news-secon {flex: 50%;max-width: 29%; height: auto;margin: 0.5rem;}
+.img-news-secon {flex: 50%;max-width: 33%; height: auto;margin: 0.5rem 0 0.5rem 0;}
 
 /* Main News Picture, Text, Other*/
 
@@ -59,6 +42,8 @@ body, html {height: 100%;width: 100%;margin: 0;font-family: "Mitr", sans-serif;t
     justify-content: center;
     align-items: center;
 }
+
+.img-product {flex: 50%;max-width: 45%; height: auto;}
 
 /* Main Product Picture, Text, Other*/
 
