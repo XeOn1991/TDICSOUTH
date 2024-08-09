@@ -35,21 +35,21 @@
                     <h1 style="text-align: center; margin: 0; font-size:8vw;">TDICS NEWS</h1>
                 </header>
                 <section class="section-news">
-                    <img class="img-news" src="/Icon/News.webp" alt="tdics news">
+                    <img class="img-news" src="/Icon/line.webp" alt="tdics news">
                     <article class="article-detail" style="margin:auto;margin-left: 1.5rem;">
                         <h1 style="margin:0;font-size: 5vw;">ทีดิก เซาท์เข้าร่วมงาน</h1>
                         <p style="font-size: 3vw;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus faucibus orci ut purus placerat, a fringilla eros bibendum.</p>
                     </article>
                 </section>
                 <section class="section-news">
-                    <img class="img-news" src="/Icon/News.webp" alt="tdics news">
+                    <img class="img-news" src="/Icon/line.webp" alt="tdics news">
                     <article class="article-detail" style="margin:auto;margin-left: 1.5rem;">
                         <h1 style="margin:0;font-size: 5vw;">ทีดิก เซาท์เข้าร่วมงาน</h1>
                         <p style="font-size: 3vw;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus faucibus orci ut purus placerat, a fringilla eros bibendum.</p>
                     </article>
                 </section>
                 <section class="section-news">
-                    <img class="img-news" src="/Icon/News.webp" alt="tdics news">
+                    <img class="img-news" src="/Icon/line.webp" alt="tdics news">
                     <article class="article-detail" style="margin:auto;margin-left: 1.5rem;">
                         <h1 style="margin:0;font-size: 5vw;">ทีดิก เซาท์เข้าร่วมงาน</h1>
                         <p style="font-size: 3vw;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus faucibus orci ut purus placerat, a fringilla eros bibendum.</p>
