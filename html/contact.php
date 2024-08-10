@@ -22,17 +22,20 @@
             </section>
             <section>
                 <form id="contact-form" action="">
-                    <section class="section-form">
+                    <section style="flex: 45%;width: 45%;margin: 0.5rem;">
                         <label for="Name">Name</label><br>
                         <input type="text" id="Name" name="Name">
                     </section>
-                    <section class="section-form">
+                    <section style="flex: 45%;width: 45%;margin: 0.5rem;">
                         <label for="Email">Email Address</label><br>
                         <input type="email" id="Email" name="Email"><br>
                     </section>
-                    <section class="section-form">
+                    <section style="flex: 100%;width: 45%;margin: 0.5rem;">
                         <label for="Message">Message</label><br>
                         <textarea id="Message" name="Message" placeholder="Write something.."></textarea>
+                    </section>
+                    <section style="flex: 100%;width: 45%;margin: 0.5rem;">
+                        
                     </section>
                 </form>
             </section>
