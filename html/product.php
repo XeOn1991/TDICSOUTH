@@ -56,6 +56,7 @@
                 </article>
             </section>
         </article>
+        <hr style="margin:1.5rem; border:1.5px solid #D9D9D9;border-radius: 5px;">
     </main>
     <?php include 'footer/footer.php'; ?>
 </body>

@@ -10,7 +10,7 @@
     </header>
     <article class="index-main-header">
         <section class="index-main-article">
-            <h1 style="font-size:6vw">
+            <h1 style="font-size:6vw;">
                 "Bulid Up Harmony Manufacture Friendly And Service Priority"
             </h1>
             <button id="index-main-article-button" type="button">Read More</button>
@@ -26,21 +26,21 @@
                     <img class="img-news" src="/Icon/line.webp" alt="tdics news">
                     <article class="article-detail" style="margin:auto;margin-left: 1.5rem;">
                         <h1 style="margin:0;font-size: 5vw;">ทีดิก เซาท์เข้าร่วมงาน</h1>
-                        <p style="font-size: 3vw;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus faucibus orci ut purus placerat, a fringilla eros bibendum.</p>
+                        <p style="font-size: 3vw;text-align:justify; text-justify: inter-word;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus faucibus orci ut purus placerat, a fringilla eros bibendum.</p>
                     </article>
                 </section>
                 <section class="section-news">
                     <img class="img-news" src="/Icon/line.webp" alt="tdics news">
                     <article class="article-detail" style="margin:auto;margin-left: 1.5rem;">
                         <h1 style="margin:0;font-size: 5vw;">ทีดิก เซาท์เข้าร่วมงาน</h1>
-                        <p style="font-size: 3vw;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus faucibus orci ut purus placerat, a fringilla eros bibendum.</p>
+                        <p style="font-size: 3vw;text-align:justify; text-justify: inter-word;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus faucibus orci ut purus placerat, a fringilla eros bibendum.</p>
                     </article>
                 </section>
                 <section class="section-news">
                     <img class="img-news" src="/Icon/line.webp" alt="tdics news">
                     <article class="article-detail" style="margin:auto;margin-left: 1.5rem;">
                         <h1 style="margin:0;font-size: 5vw;">ทีดิก เซาท์เข้าร่วมงาน</h1>
-                        <p style="font-size: 3vw;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus faucibus orci ut purus placerat, a fringilla eros bibendum.</p>
+                        <p style="font-size: 3vw;text-align:justify; text-justify: inter-word;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus faucibus orci ut purus placerat, a fringilla eros bibendum.</p>
                     </article>
                 </section>
                 <footer>
@@ -54,25 +54,25 @@
                 </header>
                 <article class="index-product-main">
                     <section class="section-product">
-                        <img class="img-product" style="max-width: 220px;height: auto;" src="/Icon/Chemical.webp" alt="tdics product">
+                        <img class="img-product" style="max-width: 220px;height: auto;" src="/Icon/line.webp" alt="tdics product">
                         <article class="article-detail" style="margin:1rem;">
                             <h1 style="margin:0;font-size: 5vw;text-align: center;">Glues-0001</h1>
                         </article>
                     </section>
                     <section class="section-product">
-                        <img class="img-product" style="max-width: 220px;height: auto;" src="/Icon/Chemical.webp" alt="tdics product">
+                        <img class="img-product" style="max-width: 220px;height: auto;" src="/Icon/line.webp" alt="tdics product">
                         <article class="article-detail" style="margin:1rem;">
                             <h1 style="margin:0;font-size: 5vw;text-align: center;">Glues-0001</h1>
                         </article>
                     </section>
                     <section class="section-product">
-                        <img class="img-product" style="max-width: 220px;height: auto;" src="/Icon/Chemical.webp" alt="tdics product">
+                        <img class="img-product" style="max-width: 220px;height: auto;" src="/Icon/line.webp" alt="tdics product">
                         <article class="article-detail" style="margin:1rem;">
                             <h1 style="margin:0;font-size: 5vw;text-align: center;">Glues-0001</h1>
                         </article>
                     </section>
                     <section class="section-product">
-                        <img class="img-product" style="max-width: 220px;height: auto;" src="/Icon/Chemical.webp" alt="tdics product">
+                        <img class="img-product" style="max-width: 220px;height: auto;" src="/Icon/line.webp" alt="tdics product">
                         <article class="article-detail" style="margin:1rem;">
                             <h1 style="margin:0;font-size: 5vw;text-align: center;">Glues-0001</h1>
                         </article>
@@ -89,21 +89,21 @@
                 </header>
                 <article class="index-Cert-main">
                     <section class="section-Cert">
-                        <img class="img-cert" style="max-width: 180px;height: auto;" src="/Icon/iso.webp" alt="tdics cert">
+                        <img class="img-cert" style="max-width: 180px;height: auto;" src="/Icon/line.webp" alt="tdics cert">
                         <article class="Cert-detail" style="margin:1rem;">
                             <h1 style="margin:0;font-size: 5vw;text-align: center;">ISO 9001:2015</h1>
                             <p style="font-size: 3vw;text-align: center;">ISO 9001 เป็นมาตรฐานระบบการจัดการคุณภาพ (QMS) ที่เป็นที่ยอมรับในระดับสากล ซึ่งจะเป็นประโยชน์ต่อองค์กรทุกขนาด</p>
                         </article>
                     </section>
                     <section class="section-Cert">
-                        <img class="img-cert" style="max-width: 180px;height: auto;" src="/Icon/iso.webp" alt="tdics cert">
+                        <img class="img-cert" style="max-width: 180px;height: auto;" src="/Icon/line.webp" alt="tdics cert">
                         <article class="Cert-detail" style="margin:1rem;">
                             <h1 style="margin:0;font-size: 5vw;text-align: center;">ISO 9001:2015</h1>
                             <p style="font-size: 3vw;text-align: center;">ISO 9001 เป็นมาตรฐานระบบการจัดการคุณภาพ (QMS) ที่เป็นที่ยอมรับในระดับสากล ซึ่งจะเป็นประโยชน์ต่อองค์กรทุกขนาด</p>
                         </article>
                     </section>
                     <section class="section-Cert">
-                        <img class="img-cert" style="max-width: 180px;height: auto;" src="/Icon/iso.webp" alt="tdics cert">
+                        <img class="img-cert" style="max-width: 180px;height: auto;" src="/Icon/line.webp" alt="tdics cert">
                         <article class="Cert-detail" style="margin:1rem;">
                             <h1 style="margin:0;font-size: 5vw;text-align: center;">ISO 9001:2015</h1>
                             <p style="font-size: 3vw;text-align: center;">ISO 9001 เป็นมาตรฐานระบบการจัดการคุณภาพ (QMS) ที่เป็นที่ยอมรับในระดับสากล ซึ่งจะเป็นประโยชน์ต่อองค์กรทุกขนาด</p>
@@ -121,14 +121,14 @@
                 </header>
                 <article class="index-achie-main">
                     <section class="section-achie">
-                        <img class="img-achie" style="display:block; margin-left:auto; margin-right:auto; max-width: 180px;" src="/Icon/target.webp" alt="tdics achie">
+                        <img class="img-achie" style="display:block; margin-left:auto; margin-right:auto; max-width: 180px;" src="/Icon/line.webp" alt="tdics achie">
                         <article class="achie-detail" style="margin:1rem;">
                             <h1 style="margin:0;font-size: 5vw;text-align: center;">ISO 9001:2015</h1>
                             <p style="font-size: 3vw;text-align: center;">ISO 9001 เป็นมาตรฐานระบบการจัดการคุณภาพ (QMS) ที่เป็นที่ยอมรับในระดับสากล ซึ่งจะเป็นประโยชน์ต่อองค์กรทุกขนาด</p>
                         </article>
                     </section>
                     <section class="section-achie">
-                        <img class="img-achie" style="display:block; margin-left:auto; margin-right:auto; max-width: 180px;" src="/Icon/target.webp" alt="tdics achie">
+                        <img class="img-achie" style="display:block; margin-left:auto; margin-right:auto; max-width: 180px;" src="/Icon/line.webp" alt="tdics achie">
                         <article class="achie-detail" style="margin:1rem;">
                             <h1 style="margin:0;font-size: 5vw;text-align: center;">ISO 9001:2015</h1>
                             <p style="font-size: 3vw;text-align: center;">ISO 9001 เป็นมาตรฐานระบบการจัดการคุณภาพ (QMS) ที่เป็นที่ยอมรับในระดับสากล ซึ่งจะเป็นประโยชน์ต่อองค์กรทุกขนาด</p>
@@ -171,30 +171,7 @@
             </article>
         </section>
     </main>
-
-    <footer class="index-footer">
-        <section class="section-footer">
-            <nav id="index-nav-left">
-                <a href="">Index</a>
-                <a href="">News</a> <!-- /news.php -->
-                <a href="">Products</a>
-                <a href="">CMS TDICS</a>
-            </nav>
-            <nav id="index-nav-right">
-                <a href="">About Us</a>
-                <a href="">Contact Us</a>
-                <a href="">FAQs</a>
-                <a href="">Terms And Conditions</a>
-            </nav>
-        </section>
-        <section>
-            <article style="margin: 1.5rem;">
-                <hr style="border: 1.5px solid #D9D9D9;border-radius: 5px;">
-                <h5 style="text-align: center;font-size:3vw;">Copyright @ 2024 TDICSouth.com all rights reserved</h5>
-                <hr style="border: 1.5px solid #F5F5F5;">
-            </article>
-        </section>
-    </footer>
+    <?php include 'footer/footer.php'; ?>
 </body>
 
 </html>

@@ -1,14 +1,14 @@
 <footer class="index-footer">
         <section class="section-footer">
             <nav id="index-nav-left">
-                <a href="">Index</a>
-                <a href="">News</a> <!-- /news.php -->
-                <a href="">Products</a>
+                <a href="/index.php" target="_self">Index</a>
+                <a href="/news.php" target="_self">News</a> <!-- /news.php -->
+                <a href="/product.php">Products</a>
                 <a href="">CMS TDICS</a>
             </nav>
             <nav id="index-nav-right">
-                <a href="">About Us</a>
-                <a href="">Contact Us</a>
+                <a href="/about.php">About Us</a>
+                <a href="/contact.php">Contact Us</a>
                 <a href="">FAQs</a>
                 <a href="">Terms And Conditions</a>
             </nav>
