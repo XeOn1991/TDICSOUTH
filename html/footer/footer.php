@@ -9,7 +9,7 @@
         <nav id="index-nav-right">
             <a href="/about.php">About Us</a>
             <a href="/contact.php">Contact Us</a>
-            <a href="">FAQs</a>
+            <a href="/faqs.php">FAQs</a>
             <a href="">Terms And Conditions</a>
         </nav>
     </section>
