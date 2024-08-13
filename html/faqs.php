@@ -50,14 +50,14 @@
                     <p style="margin:0;font-size: 3vw;text-align:justify; text-justify: inter-word;">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
                 </article>
             </section>
+            <section style="margin: 0 1rem 0 1rem;">
+                <form id="faqs-form" action="">
+                    <section style="flex: 100%;width: 100%;">
+                        <input type="text" id="search-faqs" name="Name">
+                    </section>
+                </form>
+            </section>
         </article>
-        <section>
-            <form id="contact-form" action="">
-                <section style="flex: 45%;width: 45%;margin: 0.5rem;">
-                    <input type="text" id="Name" name="Name">
-                </section>
-            </form>
-        </section>
     </main>
 
     <?php include 'footer/footer.php'; ?>

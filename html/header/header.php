@@ -6,8 +6,8 @@
     <meta name="author" content="Piyawat.k">
     <link rel="shortcut icon" href="/Icon/tdics-logo.webp" type="image/x-icon">
     <link rel="stylesheet" type="text/css" href="/CSS/tdics-style.css">
-    <script type="text/javascript" src="/Script/jquery-3.7.1.js"></script>
-    <script type="text/javascript" src="/Script/tdics-script.js"></script>
+    <script src="/Script/jquery-3.7.1.js"></script>
+    <script src="/Script/tdics-script.js"></script>
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Mitr" rel="stylesheet">
