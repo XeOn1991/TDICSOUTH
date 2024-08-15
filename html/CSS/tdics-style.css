@@ -266,3 +266,15 @@ a {
 }
 
 /* Section Contact Us*/
+
+/* Section : Terms and Conditions */
+.section-terms {
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: center;
+    margin: 0;
+}
+
+
+
+/* Section : Terms and Conditions */

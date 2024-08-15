@@ -4,13 +4,13 @@
             <a href="/index.php" target="_self">Index</a>
             <a href="/news.php" target="_self">News</a> <!-- /news.php -->
             <a href="/product.php">Products</a>
-            <a href="">CMS TDICS</a>
+            <a href="/tdics-cms.php">CMS TDICS</a>
         </nav>
         <nav id="index-nav-right">
             <a href="/about.php">About Us</a>
             <a href="/contact.php">Contact Us</a>
             <a href="/faqs.php">FAQs</a>
-            <a href="">Terms And Conditions</a>
+            <a href="/terms.php">Terms And Conditions</a>
         </nav>
     </section>
     <section>

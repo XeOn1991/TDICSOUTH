@@ -53,10 +53,11 @@
             <section style="margin: 0 1rem 0 1rem;">
                 <form id="faqs-form" action="">
                     <section style="flex: 100%;width: 100%;">
-                        <input type="text" id="search-faqs" name="Name">
+                        <input type="text" id="search-faqs" name="Name" placeholder="Search The Help Center">
                     </section>
                 </form>
             </section>
+            <hr style="margin:0.5rem; border:1.5px solid #F5F5F5;border-radius: 5px;">
         </article>
     </main>
 
