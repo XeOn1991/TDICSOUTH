@@ -7,7 +7,7 @@ html {
     text-shadow: 4px 4px 6px rgba(0, 0, 0, 0.4);
 }
 
-/* Header Logo, Text, Menu */
+/* Section : Header Logo Text Menu */
 #index-header-logo {
     position: absolute;
     top: 0;
@@ -26,10 +26,9 @@ html {
     margin: 0.3rem;
     filter: drop-shadow(1px 1px 1px rgba(0, 0, 0, 0.5));
 }
+/* Section : Header Logo Text Menu */
 
-/* Header Logo, Text, Menu */
-
-/* Main Background Picture, Text, Button */
+/* Section : Main Background Picture Button */
 .index-main-header {
     display: flex;
     justify-content: center;
@@ -58,14 +57,11 @@ html {
     box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
 }
 
-#index-main-article-button:hover {
-    background-color: #001044;
-    color: white;
-}
+#index-main-article-button:hover {background-color: #001044;color: white;}
+/* Section : Main Background Picture Button */
 
-/* Main Background Picture, Text, Button */
+/* Section : Main News Picture Text */
 
-/* Main News Picture, Text, Other*/
 .section-news {
     display: flex;
     flex-wrap: nowrap;
@@ -86,7 +82,7 @@ html {
     margin: 0.5rem 0 0.5rem 0;
 }
 
-/* Main News Picture, Text, Other*/
+/* Section : Main News Picture Text */
 
 /* Main Product Picture, Text, Other*/
 .index-product-main {
@@ -285,42 +281,41 @@ a {
     width: auto;
     height: auto;
     background-color: rgba(217, 217, 217, 0.6);
-    box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+    box-shadow: 6px 6px 6px 0px rgba(0, 0, 0, 0.2);
     text-align: center;
-    border-radius: 10px;
+    border-radius: 20px;
 }
 
 #Username , #Password {
     height: 3vh;
-    width: 50%;
+    width: 80%;
     margin: 0.5rem 0 0.5rem 0;
     padding: 0.2rem;
     font-family: "Mitr", sans-serif;
-    background-color: #FFFFFF;
+    text-align: center;
+    background-color: rgba(217, 217, 217);
     border-style: none;
     outline: none;
     border-radius: 5px;
-    box-shadow: 0px 4px 6px 0px rgba(0, 0, 0, 0.2);
+    box-shadow: 4px 4px 4px 0px rgba(0, 0, 0, 0.2);
 }
 
 #login-cms-btn {
+    float: right;
     font-size: 18px;
-    padding: 0.5rem;
+    margin-right: 2.5rem;
+    padding: 0.5rem 1rem 0.5rem 1rem;
     transition-duration: 0.6s;
     border-radius: 5px;
     border-style: none;
     font-family: "Mitr", sans-serif;
     background-color: rgba(217, 217, 217);
-    box-shadow: 0px 4px 6px 0px rgba(0, 0, 0, 0.2);
+    box-shadow: 4px 4px 4px 0px rgba(0, 0, 0, 0.2);
 }
 
-#login-cms-section {
-    margin: 0.5rem;
-}
+#login-cms-section {margin: 0.5rem;}
 
-#login-cms-head {
-    position: relative;
-}
+#login-cms-head {position: relative;}
 
 #login-cms-scetion-img {
     position: absolute;
@@ -332,4 +327,5 @@ a {
     /*top: -75px;
     left: 130px;*/
 }
+
 /* Section : TDICS-Login */

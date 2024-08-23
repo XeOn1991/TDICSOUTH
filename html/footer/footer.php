@@ -4,7 +4,7 @@
             <a href="/index.php" target="_self">Index</a>
             <a href="/news.php" target="_self">News</a> <!-- /news.php -->
             <a href="/product.php">Products</a>
-            <a href="../cms/tdics-cms.php">CMS TDICS</a>
+            <a href="../cms/cms-login.php">CMS TDICS</a>
         </nav>
         <nav id="index-nav-right">
             <a href="/about.php">About Us</a>
