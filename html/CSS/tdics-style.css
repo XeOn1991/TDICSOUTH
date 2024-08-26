@@ -1,11 +1,5 @@
 body,
-html {
-    height: 100%;
-    width: 100%;
-    margin: 0;
-    font-family: "Mitr", sans-serif;
-    text-shadow: 4px 4px 6px rgba(0, 0, 0, 0.4);
-}
+html {height: 100%;width: 100%;margin: 0;font-family: "Mitr", sans-serif;text-shadow: 4px 4px 6px rgba(0, 0, 0, 0.4);}
 
 /* Section : Header Logo Text Menu */
 #index-header-logo {
@@ -179,7 +173,8 @@ a {
 
 /* Main Footer*/
 
-/* Section About Us*/
+/* Section : About Us*/
+
 .section-history {
     display: flex;
     flex-wrap: nowrap;
@@ -194,9 +189,10 @@ a {
     margin: 0;
 }
 
-/* Section About Us*/
+/* Section : About Us*/
 
-/* Section Contact Us*/
+/* Section : Contact Us*/
+
 #contact-form {
     display: flex;
     flex-wrap: wrap;
@@ -239,10 +235,6 @@ a {
     color: white;
 }
 
-/* Section Contact Us*/
-
-/* Section Contact Us*/
-
 #faqs-form {
     display: flex;
     flex-wrap: wrap;
@@ -261,7 +253,7 @@ a {
     text-align: center;
 }
 
-/* Section Contact Us*/
+/* Section : Contact Us*/
 
 /* Section : Terms and Conditions */
 .section-terms {
@@ -329,3 +321,38 @@ a {
 }
 
 /* Section : TDICS-Login */
+
+/* Section : CMS-Main */
+.cms-manu-flex {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    margin: 0.5rem;
+    padding: 1rem;
+    width: 120px;
+    height: auto;
+    text-align: center;
+    background-color: rgba(217, 217, 217);
+    box-shadow: 4px 4px 4px 0px rgba(0, 0, 0, 0.2);
+    border-radius: 15px;
+}
+
+#cms-manu-img {width: 60%;height: auto;margin-left: auto;margin-right: auto;}
+/* Section : CMS-Main */
+
+/* Section : CMS-News */
+#cms-news-img {width: 30%;height: auto;margin-left: auto;margin-right: auto;}
+
+/* Section : CMS-News */
+
+@media screen and (max-width: 768px) {
+    
+}
+
+@media screen and (max-width: 1024px) {
+    
+}
+
+@media screen and (max-width: 1440px) {
+    
+}
