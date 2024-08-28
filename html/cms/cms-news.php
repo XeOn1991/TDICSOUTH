@@ -14,10 +14,14 @@
             <h2 style="text-align: center; margin:0; font-size:20px;">TDICSOUTH</h2>
         </header>
     </section>
-    <main style="display: flex; flex-wrap:wrap;margin:1rem;justify-content:center;">
-        <section>
+    <main style="display: flex;flex-direction:column;flex-wrap:wrap;margin:1rem;justify-content:center;">
+        <section id="cms-topic">
             <img id="cms-news-img" src="/Icon/News.webp" alt="Menu-News">
+            <h1 style="margin: 1rem;">News > CRUD</h1>
         </section>
+        <form id="Login-CMS" style="margin: 2rem ;" action="">
+            
+        </form>
     </main>
     <section>
         <article style="margin: 1.5rem;">

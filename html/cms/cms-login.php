@@ -13,9 +13,9 @@
         </header>
     </section>
     <main>
-        <form id="Login-CMS" style="margin: 2rem ;">
+        <form id="Login-CMS" style="margin: 2rem ;" action="">
             <section id="login-cms-head">
-                <img id="login-cms-scetion-img" src="/Icon/Login Avatar.webp" alt="Login-Im">
+                <img id="login-cms-scetion-img" src="/Icon/Login Avatar.webp" alt="Login-Img">
             </section>
             <section id="login-cms-section">
                 <h1 style="font-size: 35px; margin:3rem 0 0 0;">CMS TDICSouth</h1>
