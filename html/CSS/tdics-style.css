@@ -1,174 +1,183 @@
 body,
-html {height: 100%;width: 100%;margin: 0;font-family: "Mitr", sans-serif;text-shadow: 4px 4px 6px rgba(0, 0, 0, 0.4);}
+html {
+  height: 100%;
+  width: 100%;
+  margin: 0;
+  font-family: "Mitr", sans-serif;
+  text-shadow: 4px 4px 6px rgba(0, 0, 0, 0.4);
+}
 
 /* Section : Header Logo Text Menu */
 #index-header-logo {
-    position: absolute;
-    top: 0;
-    z-index: +1;
-    max-width: 10%;
-    margin: 0.3rem;
-    filter: drop-shadow(1px 1px 1px rgba(0, 0, 0, 0.5));
+  position: absolute;
+  top: 0;
+  z-index: +1;
+  max-width: 10%;
+  margin: 0.3rem;
+  filter: drop-shadow(1px 1px 1px rgba(0, 0, 0, 0.5));
 }
 
 #index-header-menu {
-    position: absolute;
-    top: 0;
-    right: 0;
-    z-index: +1;
-    width: 10%;
-    margin: 0.3rem;
-    filter: drop-shadow(1px 1px 1px rgba(0, 0, 0, 0.5));
+  position: absolute;
+  top: 0;
+  right: 0;
+  z-index: +1;
+  width: 10%;
+  margin: 0.3rem;
+  filter: drop-shadow(1px 1px 1px rgba(0, 0, 0, 0.5));
 }
 /* Section : Header Logo Text Menu */
 
 /* Section : Main Background Picture Button */
 .index-main-header {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    background-image: url("/Icon/tdics-header.webp");
-    height: 100%;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-image: url("/Icon/tdics-header.webp");
+  height: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 .index-main-article {
-    text-align: center;
-    width: 70%;
-    padding: 1rem;
-    color: white;
+  text-align: center;
+  width: 70%;
+  padding: 1rem;
+  color: white;
 }
 
 #index-main-article-button {
-    font-family: "Mitr", sans-serif;
-    font-size: 18px;
-    padding: 0.5rem;
-    transition-duration: 0.6s;
-    border-radius: 5px;
-    border-style: none;
-    box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+  font-family: "Mitr", sans-serif;
+  font-size: 18px;
+  padding: 0.5rem;
+  transition-duration: 0.6s;
+  border-radius: 5px;
+  border-style: none;
+  box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
 }
 
-#index-main-article-button:hover {background-color: #001044;color: white;}
+#index-main-article-button:hover {
+  background-color: #001044;
+  color: white;
+}
 /* Section : Main Background Picture Button */
 
 /* Section : Main News Picture Text */
 
 .section-news {
-    display: flex;
-    flex-wrap: nowrap;
-    justify-content: center;
-    margin: 0.5rem 0 0.5rem 0;
+  display: flex;
+  flex-wrap: nowrap;
+  justify-content: center;
+  margin: 0.5rem 0 0.5rem 0;
 }
 
 .img-news {
-    flex: 50%;
-    max-width: 35%;
-    height: auto;
+  flex: 50%;
+  max-width: 35%;
+  height: auto;
 }
 
 .img-news-secon {
-    flex: 50%;
-    max-width: 33%;
-    height: auto;
-    margin: 0.5rem 0 0.5rem 0;
+  flex: 50%;
+  max-width: 33%;
+  height: auto;
+  margin: 0.5rem 0 0.5rem 0;
 }
 
 /* Section : Main News Picture Text */
 
 /* Main Product Picture, Text, Other*/
 .index-product-main {
-    display: flex;
-    flex-direction: row;
-    overflow: auto;
+  display: flex;
+  flex-direction: row;
+  overflow: auto;
 }
 
 .section-product {
-    display: flex;
-    flex-wrap: nowrap;
-    flex-direction: column;
-    margin: 1.5rem 0 1.5rem 0;
-    justify-content: center;
-    align-items: center;
+  display: flex;
+  flex-wrap: nowrap;
+  flex-direction: column;
+  margin: 1.5rem 0 1.5rem 0;
+  justify-content: center;
+  align-items: center;
 }
 
 .img-product {
-    flex: 50%;
-    max-width: 45%;
-    height: auto;
+  flex: 50%;
+  max-width: 45%;
+  height: auto;
 }
 
 /* Main Product Picture, Text, Other*/
 
 /* Main Cert Picture, Text, Other*/
 .index-Cert-main {
-    display: flex;
-    flex-direction: row;
-    overflow: auto;
+  display: flex;
+  flex-direction: row;
+  overflow: auto;
 }
 
 .section-Cert {
-    display: flex;
-    flex-wrap: nowrap;
-    flex-direction: column;
-    margin: 1.5rem 0 1.5rem 0;
-    justify-content: center;
-    align-items: center;
+  display: flex;
+  flex-wrap: nowrap;
+  flex-direction: column;
+  margin: 1.5rem 0 1.5rem 0;
+  justify-content: center;
+  align-items: center;
 }
 
 /* Main Cert Picture, Text, Other*/
 
 /* Main Achie Picture, Text, Other*/
 .index-achie-main {
-    display: flex;
-    flex-direction: row;
-    overflow: auto;
+  display: flex;
+  flex-direction: row;
+  overflow: auto;
 }
 
 /* Main Achie Picture, Text, Other*/
 
 /* Main Contact Picture, Text, Other*/
 .index-contact-main {
-    display: flex;
-    flex-direction: column;
+  display: flex;
+  flex-direction: column;
 }
 
 .section-contact {
-    margin: 1.5rem 0 0 0;
+  margin: 1.5rem 0 0 0;
 }
 
 /* Main contact Picture, Text, Other*/
 
 /* Main Footer*/
 .section-footer {
-    display: flex;
-    margin: 1.5rem;
+  display: flex;
+  margin: 1.5rem;
 }
 
 #index-nav-left {
-    display: flex;
-    flex-direction: column;
-    flex: 50%;
-    float: left;
-    text-align: left;
+  display: flex;
+  flex-direction: column;
+  flex: 50%;
+  float: left;
+  text-align: left;
 }
 
 #index-nav-right {
-    display: flex;
-    flex-direction: column;
-    flex: 50%;
-    float: right;
-    text-align: right;
+  display: flex;
+  flex-direction: column;
+  flex: 50%;
+  float: right;
+  text-align: right;
 }
 
 a {
-    text-decoration: none;
-    font-size: 3.5vw;
-    font-weight: bold;
-    margin: 0.3rem;
-    color: black;
+  text-decoration: none;
+  font-size: 3.5vw;
+  font-weight: bold;
+  margin: 0.3rem;
+  color: black;
 }
 
 /* Main Footer*/
@@ -176,17 +185,17 @@ a {
 /* Section : About Us*/
 
 .section-history {
-    display: flex;
-    flex-wrap: nowrap;
-    justify-content: center;
-    margin: 0;
+  display: flex;
+  flex-wrap: nowrap;
+  justify-content: center;
+  margin: 0;
 }
 
 .section-ceo {
-    display: flex;
-    flex-wrap: nowrap;
-    flex-direction: row;
-    margin: 0;
+  display: flex;
+  flex-wrap: nowrap;
+  flex-direction: row;
+  margin: 0;
 }
 
 /* Section : About Us*/
@@ -194,73 +203,76 @@ a {
 /* Section : Contact Us*/
 
 #contact-form {
-    display: flex;
-    flex-wrap: wrap;
-    flex-direction: row;
-    margin: 1rem;
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  margin: 1rem;
 }
 
-#Name,#Email {
-    margin: 0.5rem 0 0.5rem 0;
-    background-color: #D9D9D9;
-    border-style: none;
-    height: 50%;
-    outline: none;
-    border-radius: 5px;
-    width: 100%;
+#Name,
+#Email {
+  margin: 0.5rem 0 0.5rem 0;
+  background-color: #d9d9d9;
+  border-style: none;
+  height: 50%;
+  outline: none;
+  border-radius: 5px;
+  width: 100%;
 }
 
 #Message {
-    margin: 0.5rem 0 0.5rem 0;
-    background-color: #D9D9D9;
-    border-style: none;
-    outline: none;
-    border-radius: 5px;
-    width: 100%;
-    height: 20vh;
+  margin: 0.5rem 0 0.5rem 0;
+  background-color: #d9d9d9;
+  border-style: none;
+  outline: none;
+  border-radius: 5px;
+  width: 100%;
+  height: 20vh;
 }
 
-#contact-reset-button,#contact-submit-button {
-    font-family: "Mitr", sans-serif;
-    font-size: 18px;
-    padding: 0.5rem;
-    transition-duration: 0.6s;
-    border-radius: 5px;
-    border-style: none;
-    box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+#contact-reset-button,
+#contact-submit-button {
+  font-family: "Mitr", sans-serif;
+  font-size: 18px;
+  padding: 0.5rem;
+  transition-duration: 0.6s;
+  border-radius: 5px;
+  border-style: none;
+  box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
 }
 
-#contact-reset-button:hover,#contact-submit-button:hover {
-    background-color: #001044;
-    color: white;
+#contact-reset-button:hover,
+#contact-submit-button:hover {
+  background-color: #001044;
+  color: white;
 }
 
 #faqs-form {
-    display: flex;
-    flex-wrap: wrap;
-    flex-direction: row;
-    margin: 0 1rem 0 1rem;
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  margin: 0 1rem 0 1rem;
 }
 
 #search-faqs {
-    margin: 0.5rem 0 0.5rem 0;
-    background-color: #D9D9D9;
-    border-style: none;
-    outline: none;
-    border-radius: 10px;
-    width: 100%;
-    height: 5vh;
-    text-align: center;
+  margin: 0.5rem 0 0.5rem 0;
+  background-color: #d9d9d9;
+  border-style: none;
+  outline: none;
+  border-radius: 10px;
+  width: 100%;
+  height: 5vh;
+  text-align: center;
 }
 
 /* Section : Contact Us*/
 
 /* Section : Terms and Conditions */
 .section-terms {
-    display: flex;
-    flex-wrap: nowrap;
-    justify-content: center;
-    margin: 0;
+  display: flex;
+  flex-wrap: nowrap;
+  justify-content: center;
+  margin: 0;
 }
 
 /* Section : Terms and Conditions */
@@ -268,78 +280,199 @@ a {
 /* Section : TDICS-Login */
 
 #Login-CMS {
-    display: flex;
-    flex-direction: column;
-    width: auto;
-    height: auto;
-    background-color: rgba(217, 217, 217, 0.6);
-    box-shadow: 6px 6px 6px 0px rgba(0, 0, 0, 0.2);
-    text-align: center;
-    border-radius: 20px;
+  display: flex;
+  flex-direction: column;
+  width: auto;
+  height: auto;
+  background-color: rgba(217, 217, 217, 0.6);
+  box-shadow: 6px 6px 6px 0px rgba(0, 0, 0, 0.2);
+  text-align: center;
+  border-radius: 20px;
 }
 
-#Username , #Password {
-    height: 3vh;
-    width: 80%;
-    margin: 0.5rem 0 0.5rem 0;
-    padding: 0.2rem;
-    font-family: "Mitr", sans-serif;
-    text-align: center;
-    background-color: rgba(217, 217, 217);
-    border-style: none;
-    outline: none;
-    border-radius: 5px;
-    box-shadow: 4px 4px 4px 0px rgba(0, 0, 0, 0.2);
+#Username,
+#Password,
+#news-id {
+  height: 3vh;
+  width: 80%;
+  margin: 0.5rem 0 0.5rem 0;
+  padding: 0.2rem;
+  font-family: "Mitr", sans-serif;
+  text-align: center;
+  background-color: rgba(235, 235, 235);
+  border-style: none;
+  outline: none;
+  border-radius: 5px;
+  box-shadow: 4px 4px 4px 0px rgba(0, 0, 0, 0.2);
 }
 
 #login-cms-btn {
-    float: right;
-    font-size: 18px;
-    margin-right: 2.5rem;
-    padding: 0.5rem 1rem 0.5rem 1rem;
-    transition-duration: 0.6s;
-    border-radius: 5px;
-    border-style: none;
-    font-family: "Mitr", sans-serif;
-    background-color: rgba(217, 217, 217);
-    box-shadow: 4px 4px 4px 0px rgba(0, 0, 0, 0.2);
+  float: right;
+  font-size: 18px;
+  margin-right: 2.5rem;
+  padding: 0.5rem 1rem 0.5rem 1rem;
+  transition-duration: 0.6s;
+  border-radius: 5px;
+  border-style: none;
+  font-family: "Mitr", sans-serif;
+  background-color: rgba(217, 217, 217);
+  box-shadow: 4px 4px 4px 0px rgba(0, 0, 0, 0.2);
 }
 
-#login-cms-section {margin: 0.5rem;}
+#login-cms-section {
+  margin: 0.5rem;
+}
 
-#login-cms-head {position: relative;}
+#login-cms-head {
+  position: relative;
+}
 
 #login-cms-scetion-img {
-    position: absolute;
-    width: 30%;
-    height: auto;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -60%);
-    /*top: -75px;
+  position: absolute;
+  width: 30%;
+  height: auto;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -60%);
+  /*top: -75px;
     left: 130px;*/
 }
 
 /* Section : TDICS-Login */
 
 /* Section : CMS-Main */
-.cms-menu-flex {display: flex;justify-content: center;flex-direction: column;margin: 0.5rem;padding: 1rem;width: 120px;height: auto;text-align: center;background-color: rgba(217, 217, 217);box-shadow: 4px 4px 4px 0px rgba(0, 0, 0, 0.2);border-radius: 15px;}
-#cms-manu-img {width: 60%;height: auto;margin-left: auto;margin-right: auto;}
+.cms-menu-flex {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  margin: 0.5rem;
+  padding: 1rem;
+  width: 120px;
+  height: auto;
+  text-align: center;
+  background-color: rgba(217, 217, 217);
+  box-shadow: 4px 4px 4px 0px rgba(0, 0, 0, 0.2);
+  border-radius: 15px;
+}
+#cms-manu-img {
+  width: 60%;
+  height: auto;
+  margin-left: auto;
+  margin-right: auto;
+}
 /* Section : CMS-Main */
 
 /* Section : CMS-News */
-#cms-news-img {width: 50px;height: 50px;margin-top: auto;margin-bottom: auto;}
-#cms-topic {display: flex; flex-direction: row;justify-content: center;padding: 0 1rem 0 1rem; background-color:rgba(217, 217, 217);box-shadow: 4px 4px 4px 0 rgba(0, 0, 0, 0.2);border-radius: 15px;}
+#cms-news-img {
+  width: 50px;
+  height: 50px;
+  margin-top: auto;
+  margin-bottom: auto;
+}
+#cms-news-topic {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 0 1rem 0 1rem;
+  background-color: rgba(235, 235, 235);
+  box-shadow: 4px 4px 4px 0 rgba(0, 0, 0, 0.2);
+  border-radius: 15px;
+}
+#cms-news-form {
+  display: flex;
+  flex-direction: column;
+}
+#cms-news-section {
+  display: flex;
+  flex-direction: row;
+  justify-content: right;
+  width: 100%;
+}
+#cms-news-pic {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+#cms-news-manu {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-right: 1.5rem;
+  }
+#cms-news-pic-upload {
+  display: flex;
+  flex-direction: row;
+  justify-content: right;
+}
+#news-check {
+  width: 30px;
+  height: 30px;
+  margin-top: auto;
+  margin-bottom: auto;
+}
+#news-id {
+  height: 3vh;
+  width: 60%;
+  margin: 0.5rem 0 0.5rem 0;
+  padding: 0.2rem;
+  font-family: "Mitr", sans-serif;
+  text-align: center;
+  background-color: rgba(235, 235, 235);
+  border-style: none;
+  outline: none;
+  border-radius: 5px;
+  box-shadow: 4px 4px 4px 0px rgba(0, 0, 0, 0.2);
+}
+
+#news-details {
+    height: 150px;
+    width: 60%;
+    margin: 0.5rem 0 0.5rem 0;
+    padding: 0.2rem;
+    font-family: "Mitr", sans-serif;
+    text-align: center;
+    background-color: rgba(235, 235, 235);
+    border-style: none;
+    outline: none;
+    border-radius: 5px;
+    box-shadow: 4px 4px 4px 0px rgba(0, 0, 0, 0.2);
+}
+
+#news-pic{
+    height: 3vh;
+    width: 60%;
+    margin: 0.5rem 0 0.5rem 0;
+    padding: 0.2rem;
+    font-family: "Mitr", sans-serif;
+    background: rgba(235, 235, 235);
+    border: none;
+    border-radius: 5px;
+    box-shadow: 4px 4px 4px 0px rgba(0, 0, 0, 0.2);
+}
+
+#news-pic::file-selector-button{
+    font-family: "Mitr", sans-serif;
+    border: none;
+    background: rgba(217, 217, 217);
+    margin: 3px 5px 0 3px;
+    border-radius: 3px;
+}
+
+#cms-news-section-menu {
+    text-align: center;
+    padding: 0.5rem;
+    margin: 0.5rem;
+    background: rgba(235, 235, 235);
+    border-radius: 10px;
+    box-shadow: 4px 4px 4px 0px rgba(0, 0, 0, 0.2);
+}
 /* Section : CMS-News */
 
 @media screen and (max-width: 768px) {
-    
 }
 
 @media screen and (max-width: 1024px) {
-    
 }
 
 @media screen and (max-width: 1440px) {
-    
 }
