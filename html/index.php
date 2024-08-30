@@ -10,15 +10,13 @@
     </header>
     <article class="index-main-header">
         <section class="index-main-article">
-            <h1 style="font-size:6vw;">
-                "Bulid Up Harmony Manufacture Friendly And Service Priority"
-            </h1>
+            <h1>"Bulid Up Harmony Manufacture Friendly And Service Priority"</h1>
             <button id="index-main-article-button" type="button">Read More</button>
         </section>
     </article>
     <main>
-        <section class="index-main-section">
-            <article class="index-article" style="margin: 1.5rem;">
+        <section>
+            <article class="index-article">
                 <header>
                     <h1 style="text-align: center; margin: 0; font-size:8vw;">TDICS NEWS</h1>
                 </header>
@@ -44,8 +42,8 @@
                     </article>
                 </section>
                 <footer>
-                    <h4 style="text-align: right; margin: 0; font-size:5vw;">Read More</h4>
-                    <hr style="border: 1.5px solid #D9D9D9;border-radius: 5px;">
+                    <h4 style="text-align: right; margin: 0 0 1.5rem 0; font-size:4vw;">Read More</h4>
+                    <hr style="margin:0.5rem; border:1.5px solid #F5F5F5;border-radius: 5px;">
                 </footer>
             </article>
             <article class="index-product" style="margin: 1.5rem;">
@@ -79,8 +77,8 @@
                     </section>
                 </article>
                 <footer>
-                    <h4 style="text-align: right; margin: 0; font-size:5vw;">Read More</h4>
-                    <hr style="border: 1.5px solid #D9D9D9;border-radius: 5px;">
+                    <h4 style="text-align: right; margin: 0 0 1.5rem 0; font-size:4vw;">Read More</h4>
+                    <hr style="margin:0.5rem; border:1.5px solid #F5F5F5;border-radius: 5px;">
                 </footer>
             </article>
             <article class="index-Cert" style="margin: 1.5rem;">
@@ -111,8 +109,8 @@
                     </section>
                 </article>
                 <footer>
-                    <h4 style="text-align: right; margin: 0; font-size:5vw;">Read More</h4>
-                    <hr style="border: 1.5px solid #D9D9D9;border-radius: 5px;">
+                    <h4 style="text-align: right; margin: 0 0 1.5rem 0; font-size:4vw;">Read More</h4>
+                    <hr style="margin:0.5rem; border:1.5px solid #F5F5F5;border-radius: 5px;">
                 </footer>
             </article>
             <article class="index-achie" style="margin: 1.5rem;">
@@ -136,8 +134,8 @@
                     </section>
                 </article>
                 <footer>
-                    <h4 style="text-align: right; margin: 0; font-size:5vw;">Read More</h4>
-                    <hr style="border: 1.5px solid #D9D9D9;border-radius: 5px;">
+                    <h4 style="text-align: right; margin: 0 0 1.5rem 0; font-size:4vw;">Read More</h4>
+                    <hr style="margin:0.5rem; border:1.5px solid #F5F5F5;border-radius: 5px;">
                 </footer>
             </article>
             <article class="index-contact" style="margin: 1.5rem;">
@@ -165,8 +163,8 @@
                     </section>
                 </article>
                 <footer>
-                    <h4 style="text-align: right; margin: 0; font-size:5vw;">Read More</h4>
-                    <hr style="border: 1.5px solid #D9D9D9;border-radius: 5px;">
+                    <h4 style="text-align: right; margin: 0 0 1.5rem 0; font-size:4vw;">Read More</h4>
+                    <hr style="margin:0.5rem; border:1.5px solid #F5F5F5;border-radius: 5px;">
                 </footer>
             </article>
         </section>
