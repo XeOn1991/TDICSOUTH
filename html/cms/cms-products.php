@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html lang="en-us">
-
 <?php include '../header/header.php'; ?>
 
 <body>
@@ -16,18 +15,18 @@
     </section>
     <main style="display: flex;flex-direction:column;flex-wrap:wrap;margin:1rem;justify-content:center;">
         <section id="cms-news-topic">
-            <img id="cms-news-img" src="/Icon/News.webp" alt="Menu-News">
-            <h1 style="margin: 1rem;">News > CRUD</h1>
+            <img id="cms-news-img" src="/Icon/Box.webp" alt="Menu-News">
+            <h1 style="margin: 1rem;">Products > CRUD</h1>
         </section>
         <form id="cms-news-form" style="margin: 1rem 1rem 0 1rem ;" action="">
             <section id="cms-news-section">
                 <h3 style="margin: 0.5rem;">ID : </h3>
-                <input type="text" name="text" id="news-id" class="cms-input" style="margin: 0.5rem;"> <!-- ID -->
+                <input type="text" name="text" id="knowledge-id" class="cms-input" style="margin: 0.5rem;"> <!-- ID -->
                 <img id="news-check" src="/Icon/Check.webp" alt="Check">
             </section>
             <section id="cms-news-section">
                 <h3 style="margin: 0.5rem;">Header : </h3>
-                <input type="text" name="text" id="news-header" class="cms-input" style="margin: 0.5rem;"> <!-- Header -->
+                <input type="text" name="text" id="knowledge-header" class="cms-input" style="margin: 0.5rem;"> <!-- Header -->
                 <img id="news-check" src="/Icon/Check.webp" alt="Check">
             </section>
             <section id="cms-news-section">
@@ -38,35 +37,17 @@
             <section id="cms-news-pic">
                 <section id="cms-news-pic-upload">
                     <h3 style="margin: 0.5rem;">Picture : </h3>
-                    <input type="file" name="file" id="knowledge-pic-1" class="news-pic" style="margin: 0.5rem;"> <!-- PIC -->
+                    <input type="file" name="file" id="knowledge-pic-1" class="news-pic" style="margin: 0.5rem;">
                     <img id="news-check" src="/Icon/Check.webp" alt="Check">
                 </section>
                 <section id="cms-news-pic-upload">
-                    <input type="file" name="file" id="knowledge-pic-1" class="news-pic" style="margin: 0.5rem;"> <!-- PIC -->
+                    <input type="file" name="file" id="knowledge-pic-2" class="news-pic" style="margin: 0.5rem;">
                     <img id="news-check" src="/Icon/Check.webp" alt="Check">
                 </section>
                 <section id="cms-news-pic-upload">
-                    <input type="file" name="file" id="knowledge-pic-1" class="news-pic" style="margin: 0.5rem;"> <!-- PIC -->
+                    <input type="file" name="file" id="knowledge-pic-3" class="news-pic" style="margin: 0.5rem;">
                     <img id="news-check" src="/Icon/Check.webp" alt="Check">
                 </section>
-                <section id="cms-news-pic-upload">
-                    <input type="file" name="file" id="knowledge-pic-1" class="news-pic" style="margin: 0.5rem;"> <!-- PIC -->
-                    <img id="news-check" src="/Icon/Check.webp" alt="Check">
-                </section>
-                <section id="cms-news-pic-upload">
-                    <input type="file" name="file" id="knowledge-pic-1" class="news-pic" style="margin: 0.5rem;"> <!-- PIC -->
-                    <img id="news-check" src="/Icon/Check.webp" alt="Check">
-                </section>
-            </section>
-            <section id="cms-news-section">
-                <h3 style="margin: 0.5rem;">Date : </h3>
-                <input type="date" name="text" id="news-id" class="cms-input" style="margin: 0.5rem;"> <!-- Date -->
-                <img id="news-check" src="/Icon/Check.webp" alt="Check">
-            </section>
-            <section id="cms-news-section">
-                <h3 style="margin: 0.5rem;">Time : </h3>
-                <input type="time" name="time" id="news-id" class="cms-input" style="margin: 0.5rem;"> <!-- Time -->
-                <img id="news-check" src="/Icon/Check.webp" alt="Check">
             </section>
             <section id="cms-news-manu">
                 <section id="cms-news-section-menu">

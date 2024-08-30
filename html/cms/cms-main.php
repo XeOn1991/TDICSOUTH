@@ -15,28 +15,28 @@
         </header>
     </section>
     <main style="display: flex; flex-wrap:wrap;margin:1rem;justify-content:center;">
-        <section class="cms-menu-flex">
-            <img id="cms-manu-img" src="/Icon/News.webp" alt="Menu-News">
+        <section id="Menu-News" class="cms-menu-flex">
+            <img id="cms-menu-img" src="/Icon/News.webp" alt="Menu-News">
             <h1>News</h1>
         </section>
-        <section class="cms-menu-flex">
-            <img id="cms-manu-img" src="/Icon/knowledge.webp" alt="Menu-News">
+        <section id="Menu-Knowledge" class="cms-menu-flex">
+            <img id="cms-menu-img" src="/Icon/knowledge.webp" alt="Menu-News">
             <h1>Knowledge</h1>
         </section>
-        <section class="cms-menu-flex">
-            <img id="cms-manu-img" src="/Icon/Box.webp" alt="Menu-News">
+        <section id="Menu-Products" class="cms-menu-flex">
+            <img id="cms-menu-img" src="/Icon/Box.webp" alt="Menu-News">
             <h1>Products</h1>
         </section>
-        <section class="cms-menu-flex">
-            <img id="cms-manu-img" src="/Icon/Hiring.webp" alt="Menu-News">
+        <section id="Menu-Jobs" class="cms-menu-flex">
+            <img id="cms-menu-img" src="/Icon/Hiring.webp" alt="Menu-News">
             <h1>Jobs</h1>
         </section>
-        <section class="cms-menu-flex">
-            <img id="cms-manu-img" src="/Icon/Chat.webp" alt="Menu-News">
+        <section id="Menu-Message" class="cms-menu-flex">
+            <img id="cms-menu-img" src="/Icon/Chat.webp" alt="Menu-News">
             <h1>Message</h1>
         </section>
-        <section class="cms-menu-flex">
-            <img id="cms-manu-img" src="/Icon/Logout.webp" alt="Menu-News">
+        <section id="Menu-Logout" class="cms-menu-flex">
+            <img id="cms-menu-img" src="/Icon/Logout.webp" alt="Menu-News">
             <h1>Logout</h1>
         </section>
     </main>
