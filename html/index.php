@@ -20,27 +20,29 @@
                 <header>
                     <h1 style="text-align: center; margin: 0; font-size:8vw;">TDICS NEWS</h1>
                 </header>
-                <section class="section-news">
-                    <img class="img-news" src="/Icon/line.webp" alt="tdics news">
-                    <article class="article-detail" style="margin:auto;margin-left: 1.5rem;">
-                        <h1 style="margin:0;font-size: 5vw;">ทีดิก เซาท์เข้าร่วมงาน</h1>
-                        <p style="font-size: 3vw;text-align:justify; text-justify: inter-word;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus faucibus orci ut purus placerat, a fringilla eros bibendum.</p>
-                    </article>
-                </section>
-                <section class="section-news">
-                    <img class="img-news" src="/Icon/line.webp" alt="tdics news">
-                    <article class="article-detail" style="margin:auto;margin-left: 1.5rem;">
-                        <h1 style="margin:0;font-size: 5vw;">ทีดิก เซาท์เข้าร่วมงาน</h1>
-                        <p style="font-size: 3vw;text-align:justify; text-justify: inter-word;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus faucibus orci ut purus placerat, a fringilla eros bibendum.</p>
-                    </article>
-                </section>
-                <section class="section-news">
-                    <img class="img-news" src="/Icon/line.webp" alt="tdics news">
-                    <article class="article-detail" style="margin:auto;margin-left: 1.5rem;">
-                        <h1 style="margin:0;font-size: 5vw;">ทีดิก เซาท์เข้าร่วมงาน</h1>
-                        <p style="font-size: 3vw;text-align:justify; text-justify: inter-word;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus faucibus orci ut purus placerat, a fringilla eros bibendum.</p>
-                    </article>
-                </section>
+                <article class="index-news-main">
+                    <section class="section-news">
+                        <img class="img-news" src="/Icon/line.webp" alt="tdics news">
+                        <article class="article-detail" style="margin:auto;margin-left: 1.5rem;">
+                            <h1 style="margin:0;font-size: 5vw;">ทีดิก เซาท์เข้าร่วมงาน</h1>
+                            <p style="font-size: 3vw;text-align:justify; text-justify: inter-word;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus faucibus orci ut purus placerat, a fringilla eros bibendum.</p>
+                        </article>
+                    </section>
+                    <section class="section-news">
+                        <img class="img-news" src="/Icon/line.webp" alt="tdics news">
+                        <article class="article-detail" style="margin:auto;margin-left: 1.5rem;">
+                            <h1 style="margin:0;font-size: 5vw;">ทีดิก เซาท์เข้าร่วมงาน</h1>
+                            <p style="font-size: 3vw;text-align:justify; text-justify: inter-word;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus faucibus orci ut purus placerat, a fringilla eros bibendum.</p>
+                        </article>
+                    </section>
+                    <section class="section-news">
+                        <img class="img-news" src="/Icon/line.webp" alt="tdics news">
+                        <article class="article-detail" style="margin:auto;margin-left: 1.5rem;">
+                            <h1 style="margin:0;font-size: 5vw;">ทีดิก เซาท์เข้าร่วมงาน</h1>
+                            <p style="font-size: 3vw;text-align:justify; text-justify: inter-word;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus faucibus orci ut purus placerat, a fringilla eros bibendum.</p>
+                        </article>
+                    </section>
+                </article>
                 <footer>
                     <h4 style="text-align: right; margin: 0 0 1.5rem 0; font-size:4vw;">Read More</h4>
                     <hr style="margin:0.5rem; border:1.5px solid #F5F5F5;border-radius: 5px;">

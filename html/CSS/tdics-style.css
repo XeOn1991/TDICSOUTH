@@ -47,6 +47,8 @@ body,html{height: 100%;width: 100%;margin: 0;font-family: "Mitr", sans-serif;tex
 
 .index-article {margin: 1.5rem;}
 
+.index-news-main {margin-top: 1.5rem;}
+
 .section-news {
   display: flex;
   flex-wrap: nowrap;
@@ -473,11 +475,11 @@ td {
 @media screen and (min-width: 768px) {
 
   .index-main-article>h1 {
-    font-size: 40px;
+    font-size: 60px;
   }
 
   #index-main-article-button {
-    font-size: 25px;
+    font-size: 30px;
     border-radius: 10px;
   }
 
