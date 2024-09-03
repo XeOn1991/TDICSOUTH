@@ -53,7 +53,8 @@ body,html{height: 100%;width: 100%;margin: 0;font-family: "Mitr", sans-serif;tex
   display: flex;
   flex-wrap: nowrap;
   justify-content: center;
-  /*margin: 0.5rem 0 0.5rem 0;*/
+  overflow-x:auto;
+  margin: 0;
 }
 
 .img-news {
@@ -485,6 +486,10 @@ td {
 
   .index-article {
     margin: 3.5rem;
+  }
+
+  .section-news {
+    margin: 0;
   }
 
 }

@@ -20,7 +20,70 @@
     </section>
 
     <main>
-        <article class="index-article" style="margin: 1rem;">
+        <section class="index-article">
+            <article class="section-news">
+                <img class="img-product" src="/Icon/line.webp" alt="tdics news">
+                <article class="article-detail" style="display:flex; flex-wrap: wrap;margin-left: 1.5rem;">
+                    <h1 style="display:inline; margin:0;font-size: 5vw;">Type I</h1>
+                    <h3 style="display:inline;margin:0;font-size: 3vw;">Descriptions and Features</h3>
+                    <p style="margin:0;font-size: 3vw;">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+                    <h3 style="display:inline;margin:0;font-size: 3vw;">Specification</h3>
+                    <p style="margin:0;font-size: 3vw;">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+                </article>
+            </article>
+        </section>
+        <section class="index-article">
+            <article class="section-news">
+                <img class="img-product" src="/Icon/line.webp" alt="tdics news">
+                <article class="article-detail" style="display:flex; flex-wrap: wrap;margin-left: 1.5rem;">
+                    <h1 style="display:inline; margin:0;font-size: 5vw;">Type I</h1>
+                    <h3 style="display:inline;margin:0;font-size: 3vw;">Descriptions and Features</h3>
+                    <p style="margin:0;font-size: 3vw;">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+                    <h3 style="display:inline;margin:0;font-size: 3vw;">Specification</h3>
+                    <p style="margin:0;font-size: 3vw;">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+                </article>
+            </article>
+        </section>
+        <section class="index-article">
+            <article class="section-news">
+                <img class="img-product" src="/Icon/line.webp" alt="tdics news">
+                <article class="article-detail" style="display:flex; flex-wrap: wrap;margin-left: 1.5rem;">
+                    <h1 style="display:inline; margin:0;font-size: 5vw;">Type I</h1>
+                    <h3 style="display:inline;margin:0;font-size: 3vw;">Descriptions and Features</h3>
+                    <p style="margin:0;font-size: 3vw;">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+                    <h3 style="display:inline;margin:0;font-size: 3vw;">Specification</h3>
+                    <p style="margin:0;font-size: 3vw;">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+                </article>
+            </article>
+        </section>
+        <section class="index-article">
+            <article class="section-news">
+                <img class="img-product" src="/Icon/line.webp" alt="tdics news">
+                <article class="article-detail" style="display:flex; flex-wrap: wrap;margin-left: 1.5rem;">
+                    <h1 style="display:inline; margin:0;font-size: 5vw;">Type I</h1>
+                    <h3 style="display:inline;margin:0;font-size: 3vw;">Descriptions and Features</h3>
+                    <p style="margin:0;font-size: 3vw;">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+                    <h3 style="display:inline;margin:0;font-size: 3vw;">Specification</h3>
+                    <p style="margin:0;font-size: 3vw;">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+                </article>
+            </article>
+        </section>
+        <section class="index-article">
+            <article class="section-news">
+                <img class="img-product" src="/Icon/line.webp" alt="tdics news">
+                <article class="article-detail" style="display:flex; flex-wrap: wrap;margin-left: 1.5rem;">
+                    <h1 style="display:inline; margin:0;font-size: 5vw;">Type I</h1>
+                    <h3 style="display:inline;margin:0;font-size: 3vw;">Descriptions and Features</h3>
+                    <p style="margin:0;font-size: 3vw;">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+                    <h3 style="display:inline;margin:0;font-size: 3vw;">Specification</h3>
+                    <p style="margin:0;font-size: 3vw;">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+                </article>
+            </article>
+        </section>
+        <footer>
+            <hr style="margin:0.5rem; border:2.5px solid #F5F5F5;border-radius: 5px;">
+        </footer>
+        <!--<article class="index-article" style="margin: 1rem;">
             <section class="section-news">
                 <img class="img-product" src="/Icon/line.webp" alt="tdics news">
                 <article class="article-detail" style="display:flex; flex-wrap: wrap;margin-left: 1.5rem;">
@@ -56,7 +119,7 @@
                 </article>
             </section>
         </article>
-        <hr style="margin:1.5rem; border:1.5px solid #D9D9D9;border-radius: 5px;">
+        <hr style="margin:1.5rem; border:1.5px solid #D9D9D9;border-radius: 5px;">-->
     </main>
     <?php include 'footer/footer.php'; ?>
 </body>

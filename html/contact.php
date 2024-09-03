@@ -13,7 +13,7 @@
         </header>
     </section>
     <main>
-        <article style="margin: 1rem;">
+        <!--<article style="margin: 1rem;">
             <section class="section-history">
                 <article class="article-detail" style="display:flex; flex-direction: column; margin: 1rem;">
                     <h1 style="margin:0;font-size: 5vw;">Get In Touch</h1>
@@ -66,7 +66,7 @@
                 </section>
             </section>
             <hr style="margin:0.5rem; border:1.5px solid #F5F5F5;border-radius: 5px;">
-        </article>
+        </article>-->
     </main>
     <?php include 'footer/footer.php'; ?>
 </body>
