@@ -13,6 +13,35 @@
         </header>
     </section>
     <main>
+        <section class="index-article">
+            <article class="article-detail" style="text-align:center;">
+                <h1 style="margin:0;font-size: 5vw;">Get In Touch</h1>
+                <p style="margin:0;font-size: 3vw;">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages.</p>
+            </article>
+        </section>
+        <section class="index-contact">
+            <form class="contact-form" action="">
+                <section class="contact-form-name">
+                    <label for="Name">Name</label><br>
+                    <input type="text" id="Name" name="Name" placeholder="Mr.Example">
+                </section>
+                <section class="contact-form-mail">
+                    <label for="Email">Email Address</label><br>
+                    <input type="email" id="Email" name="Email" placeholder="Example@Mail.com"><br>
+                </section>
+                <section class="contact-form-message">
+                    <label for="Message">Message</label><br>
+                    <textarea id="Message" name="Message" placeholder="Write something.."></textarea>
+                </section>
+                <section class="contact-form-button">
+                    <button id="contact-reset-button" type="button">Reset</button>
+                    <button id="contact-submit-button" type="button">Submit</button>
+                </section>
+            </form>
+        </section>
+        <section class="index-contact">
+
+        </section>
         <!--<article style="margin: 1rem;">
             <section class="section-history">
                 <article class="article-detail" style="display:flex; flex-direction: column; margin: 1rem;">

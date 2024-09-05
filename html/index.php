@@ -48,7 +48,7 @@
                 <hr style="margin:0.5rem; border:1.5px solid #F5F5F5;border-radius: 5px;">
             </footer>
         </article>
-        <article class="index-product" style="margin: 1.5rem;">
+        <article class="index-product">
             <header>
                 <h1 style="text-align: center; margin: 0; font-size:8vw;">TDICS Products</h1>
             </header>
@@ -83,7 +83,7 @@
                 <hr style="margin:0.5rem; border:1.5px solid #F5F5F5;border-radius: 5px;">
             </footer>
         </article>
-        <article class="index-Cert" style="margin: 1.5rem;">
+        <article class="index-cert">
             <header>
                 <h1 style="text-align:center; margin: 0; font-size:8vw;">TDICS Certificate</h1>
             </header>
@@ -115,7 +115,7 @@
                 <hr style="margin:0.5rem; border:1.5px solid #F5F5F5;border-radius: 5px;">
             </footer>
         </article>
-        <article class="index-achie" style="margin: 1.5rem;">
+        <article class="index-achie">
             <header>
                 <h1 style="text-align: center; margin: 0; font-size:8vw;">TDICS Achievement</h1>
             </header>
@@ -140,7 +140,7 @@
                 <hr style="margin:0.5rem; border:1.5px solid #F5F5F5;border-radius: 5px;">
             </footer>
         </article>
-        <article class="index-contact" style="margin: 1.5rem;">
+        <article class="index-contact">
             <header>
                 <h1 style="text-align:center; margin: 0; font-size:8vw;">TDICS Contact</h1>
             </header>
