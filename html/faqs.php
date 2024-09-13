@@ -14,13 +14,13 @@
         </header>
     </section>
     <main>
-        <article style="margin: 1rem;">
-            <section class="section-history">
-                <article class="article-detail" style="display:flex; flex-direction: column; margin: 1rem;">
-                    <h1 style="margin:0;font-size: 5vw;">Top 5 FAQs</h1>
-                    <p style="margin:0;font-size: 3vw;text-align:justify; text-justify: inter-word;">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
-                </article>
-            </section>
+        <section class="index-contact">
+            <article class="article-detail" style="text-align:center;">
+                <h1 style="margin:0 0 1rem 0;font-size: 5vw;">Top 5 FAQs</h1>
+                <p style="margin:0;font-size: 3vw;">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
+            </article>
+        </section>
+        <!--<article style="margin: 1rem;">
             <section style="margin: 0 1.5rem 0 1.5rem;">
                 <article style="margin-top: 1rem; padding:1rem;background-color:#D9D9D9;border-radius: 10px;">
                     <h2 style="margin:0;font-size: 3vw;">TDICS?</h2>
@@ -58,9 +58,9 @@
                 </form>
             </section>
             <hr style="margin:0.5rem; border:1.5px solid #F5F5F5;border-radius: 5px;">
-        </article>
-    </main>
+        </article>-->
 
+    </main>
     <?php include 'footer/footer.php'; ?>
 </body>
 

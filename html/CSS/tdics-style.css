@@ -251,6 +251,23 @@ a {
   margin: 0.5rem;
 }
 
+.contact-main {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  text-align: center;
+}
+
+.img-contact-main {
+  max-width: 20%;
+  height: auto;
+  margin: 0.5rem 0 0.5rem 0;
+}
+
+.contact-main-support, .contact-main-marketing, .contact-main-office, .contact-main-email {
+  flex: 50%;
+}
+
 #Name,
 #Email {
   margin: 0.5rem 0 0.5rem 0;
@@ -546,7 +563,7 @@ td {
   }
 
   .index-contact {
-    margin: 3.5rem;
+    margin: 2rem 3.5rem 2rem 3.5rem;
   }
 
   .section-news {

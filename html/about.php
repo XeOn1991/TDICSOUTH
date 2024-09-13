@@ -55,14 +55,14 @@
             </footer>
         </section>
         <section class="index-article">
-            <section class="section-news">
+            <article class="section-news">
                 <img class="img-news" src="/Icon/line.webp" alt="tdics news" loading="lazy">
-                <article class="article-detail" style="margin:auto;margin-left: 1.5rem;">
+                <section class="article-detail" style="margin:auto;margin-left: 1.5rem;">
                     <h1 style="margin:0.5rem 0 0.5rem 0;font-size: 5vw;">Teamwork</h1>
                     <h2 style="margin:0.5rem 0 0.5rem 0;font-size: 4vw;">Administration</h2>
                     <p style="margin:0.5rem 0 0.5rem 0;font-size: 3vw;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus faucibus orci ut purus placerat, a fringilla eros bibendum.</p>
-                </article>
-            </section>
+                </section>
+            </article>
             <figure class="section-news">
                 <img class="img-news-secon" src="/Icon/line.webp" alt="tdics news" loading="lazy">
                 <img class="img-news-secon" src="/Icon/line.webp" alt="tdics news" loading="lazy">
