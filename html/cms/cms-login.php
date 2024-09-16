@@ -13,7 +13,7 @@
         </header>
     </section>
     <main>
-        <form id="Login-CMS" style="margin: 2rem ;" action="">
+        <form id="Login-CMS" action="">
             <section id="login-cms-head">
                 <img id="login-cms-scetion-img" src="/Icon/Login Avatar.webp" alt="Login-Img">
             </section>
