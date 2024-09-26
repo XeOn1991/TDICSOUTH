@@ -13,24 +13,23 @@
         </header>
     </section>
     <main>
-        <form id="Login-CMS" action="">
-            <section id="login-cms-head">
+        <form class="Login-CMS" action="">
+            <section class="login-cms-head">
                 <img id="login-cms-scetion-img" src="/Icon/Login Avatar.webp" alt="Login-Img">
             </section>
-            <section id="login-cms-section">
-                <h1 style="font-size: 35px; margin:3rem 0 0 0;">CMS TDICSouth</h1>
-                <!--<H2 style="font-size: 20px; margin:0;">TDICSouth</H2>-->
+            <section class="login-cms-section">
+                <h1 class="login-cms-head">CMS TDICSouth</h1>
             </section>
-            <section id="login-cms-section">
-                <h2 style="margin: 0 0 0 2.5rem;float:left;">Username</h2>
+            <section class="login-cms-section">
+                <h2 class="login-cms-user">Username</h2>
                 <input type="text" id="Username" name="Username" placeholder="Username"><br>
             </section>
-            <section id="login-cms-section">
-                <h2 style="margin: 0 0 0 2.5rem;float:left;">Password</h2>
+            <section class="login-cms-section">
+                <h2 class="login-cms-password">Password</h2>
                 <input type="password" id="Password" name="Password" placeholder="Password"><br>
             </section>
-            <section style="margin: 0.6rem 0 1.5rem 0;">
-                <button id="login-cms-btn" type="button">Submit</button>
+            <section class="login-cms-footer">
+                <button class="login-cms-btn" type="button">Submit</button>
             </section>
         </form>
     </main>

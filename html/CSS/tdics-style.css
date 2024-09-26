@@ -264,7 +264,10 @@ a {
   margin: 0.5rem 0 0.5rem 0;
 }
 
-.contact-main-support, .contact-main-marketing, .contact-main-office, .contact-main-email {
+.contact-main-support,
+.contact-main-marketing,
+.contact-main-office,
+.contact-main-email {
   flex: 50%;
 }
 
@@ -345,7 +348,7 @@ a {
 
 /* Section : TDICS-Login */
 
-#Login-CMS {
+.Login-CMS {
   display: flex;
   flex-direction: column;
   width: auto;
@@ -372,7 +375,7 @@ a {
   box-shadow: 4px 4px 10px 0px rgba(0, 0, 0, 0.2);
 }
 
-#login-cms-btn {
+.login-cms-btn {
   float: right;
   font-size: 18px;
   margin-right: 2.5rem;
@@ -385,17 +388,28 @@ a {
   box-shadow: 4px 4px 10px 0px rgba(0, 0, 0, 0.2);
 }
 
-#login-cms-section {
-  margin: 0.5rem;
+.login-cms-section {
+  margin-top: 3rem;
 }
 
-#login-cms-head {
+.login-cms-head {
   position: relative;
+  font-size: 35px; 
+  margin:3rem 0 0 0;
+}
+
+.login-cms-footer {
+  margin: 1rem 0 1rem 0;
+}
+
+.login-cms-user,.login-cms-password {
+  float:left;
+  margin: 0 0 0 2.5rem;
 }
 
 #login-cms-scetion-img {
   position: absolute;
-  width: 30%;
+  width: 35%;
   height: auto;
   top: 50%;
   left: 50%;
@@ -592,13 +606,33 @@ td {
     margin: 0.5rem;
   }
 
-  #Login-CMS {
-    margin: 2rem 3rem 2rem 3rem;
+  .Login-CMS {
+    margin: 3rem 8rem 3rem 8rem;
   }
 
+  .login-cms-section {
+    margin-top: 2rem;
+  }
 }
 
-@media screen and (max-width: 1024px) {
+@media screen and (min-width: 1024px) {
+  .Login-CMS {
+    margin: 6rem 10rem 4rem 10rem;
+  }
+  #login-cms-scetion-img{
+    width: 30%;
+  }
+  #Username,#Password {
+    height: 4vh;
+    font-size: 25px;
+  }
+  .login-cms-user,.login-cms-password {
+    margin: 0 0 0 4rem;
+  }
+  .login-cms-btn {
+    margin-right: 4.3rem;
+    font-size: 25px;
+  }
 }
 
 @media screen and (max-width: 1440px) {
