@@ -1,73 +1,23 @@
-body,
-html {
-  height: 100%;
-  width: 100%;
-  margin: 0;
-  font-family: "Mitr", sans-serif;
-  text-shadow: 4px 4px 6px rgba(0, 0, 0, 0.4);
-}
+body,html {height: 100%;width: 100%;margin: 0;font-family: "Mitr", sans-serif;text-shadow: 4px 4px 6px rgba(0, 0, 0, 0.4);}
 
 /* Section : Header Logo Text Menu */
-#index-header-logo {
-  position: absolute;
-  top: 0;
-  z-index: +1;
-  max-width: 10%;
-  margin: 0.3rem;
-  filter: drop-shadow(1px 1px 1px rgba(0, 0, 0, 0.5));
-}
-#index-header-menu {
-  position: absolute;
-  top: 0;
-  right: 0;
-  z-index: +1;
-  width: 10%;
-  margin: 0.3rem;
-  filter: drop-shadow(1px 1px 1px rgba(0, 0, 0, 0.5));
-}
+#index-header-logo {position: absolute;top: 0;z-index: +1;max-width: 10%;margin: 0.3rem;filter: drop-shadow(1px 1px 1px rgba(0, 0, 0, 0.5));}
+#index-header-menu {position: absolute;top: 0;right: 0;z-index: +1;width: 10%;margin: 0.3rem;filter: drop-shadow(1px 1px 1px rgba(0, 0, 0, 0.5));}
 /* Section : Header Logo Text Menu */
 
 /* Section : Main Background Picture Button */
-.index-main-header {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  background-image: url("/Icon/tdics-header.webp");
-  height: 100%;
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
-}
-
-.index-main-article {
-  text-align: center;
-  width: 70%;
-  padding: 1rem;
-  color: white;
-}
-
-.index-main-article > h1 {
-  font-size: 25px;
-}
-
-#index-main-article-button {
-  font-family: "Mitr", sans-serif;
-  font-size: 18px;
-  padding: 0.5rem;
-  transition-duration: 0.6s;
-  border-radius: 10px;
-  border-style: none;
-  text-shadow: 4px 4px 6px rgba(0, 0, 0, 0.4);
-  box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
-}
-
-#index-main-article-button:hover {
-  background-color: #001044;
-  color: white;
-}
+.index-main-header {display: flex;justify-content: center;align-items: center;background-image: url("/Icon/tdics-header.webp");height: 100%;background-position: center;background-repeat: no-repeat;background-size: cover;}
+.index-main-article {text-align: center;width: 70%;padding: 1rem;color: white;}
+.index-main-article > h1 {font-size: 25px;}
+#index-main-article-button {font-family: "Mitr", sans-serif;font-size: 18px;padding: 0.5rem;transition-duration: 0.6s;border-radius: 10px;border-style: none;text-shadow: 4px 4px 6px rgba(0, 0, 0, 0.4);box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);}
+#index-main-article-button:hover {background-color: #001044;color: white;}
 /* Section : Main Background Picture Button */
 
 /* Section : Main News Picture Text */
+
+.index-news {
+  margin: 1.5rem;
+}
 
 .index-article {
   margin: 1.5rem;
@@ -120,8 +70,8 @@ html {
 }
 
 .img-product {
-  flex: 50%;
-  max-width: 45%;
+  /*flex: 50%;*/
+  max-width: 50%;
   height: auto;
 }
 
@@ -137,11 +87,15 @@ html {
   overflow: auto;
 }
 
+.img-cert {
+  max-width: 80%;height: auto;
+}
+
 .section-Cert {
   display: flex;
   flex-wrap: nowrap;
   flex-direction: column;
-  margin: 1.5rem 0 1.5rem 0;
+  margin: 1.5rem 0 0 0;
   justify-content: center;
   align-items: center;
 }
@@ -158,8 +112,12 @@ html {
   overflow: auto;
 }
 
+.img-achie {
+  display:block; margin-left:auto; margin-right:auto; max-width: 60%;
+}
+
 .section-achie {
-  margin: 1.5rem 0 1.5rem 0;
+  margin: 1.5rem 0 0 0;
 }
 
 /* Main Achie Picture, Text, Other*/
@@ -171,6 +129,10 @@ html {
 .index-contact-main {
   display: flex;
   flex-direction: column;
+}
+
+.img-contact {
+  display:block; margin-left:auto; margin-right:auto; max-width: 10%;
 }
 
 .section-contact {
@@ -201,7 +163,7 @@ html {
   text-align: right;
 }
 
-a {
+.footer-a {
   text-decoration: none;
   font-size: 3.5vw;
   font-weight: bold;
@@ -210,6 +172,17 @@ a {
 }
 
 /* Main Footer*/
+
+/* Section : News*/
+
+.News, .Knowledge, .Jobs {
+  color: black;
+  font-size: 2.5vw;
+  text-decoration: none;
+  border-style: none;
+}
+
+/* Section : News*/
 
 /* Section : About Us*/
 
@@ -389,7 +362,7 @@ a {
 }
 
 .login-cms-section {
-  margin-top: 3rem;
+  margin-top: 1rem;
 }
 
 .login-cms-head {
@@ -635,5 +608,21 @@ td {
   }
 }
 
-@media screen and (max-width: 1440px) {
+@media screen and (min-width: 1440px) {
+  #index-header-logo, #index-header-menu {
+    max-width: 5%;
+  }
+
+  .index-news, .index-product, .index-cert, .index-achie, .index-contact, .index-article {
+    margin: 2rem 10rem 2rem 10rem;
+  }
+
+  .img-product {
+    max-width: 90%;
+  }
+
+  .footer-a {
+    font-size: 2vw;
+  }
+  
 }

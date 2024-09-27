@@ -8,7 +8,7 @@
         <img id="index-header-menu" src="/Icon/menu.webp" alt="tdics menu" />
     </header>
     <section class="index-article" style="display: flex; flex-direction:column;margin-top:12%;">
-        <header style="margin-bottom: 4rem;">
+        <header class="index-article-head">
             <h1 style="text-align: center; margin: 0; font-size:8vw;">Login</h1>
         </header>
     </section>
