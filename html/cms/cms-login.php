@@ -7,11 +7,11 @@
         <img id="index-header-logo" src="/Icon/tdics-logo.webp" alt="tdics logo" />
         <img id="index-header-menu" src="/Icon/menu.webp" alt="tdics menu" />
     </header>
-    <section class="index-article" style="display: flex; flex-direction:column;margin-top:12%;">
+    <!--<section class="index-article" style="display: flex; flex-direction:column;margin-top:2%;">
         <header class="index-article-head">
             <h1 style="text-align: center; margin: 0; font-size:8vw;">Login</h1>
         </header>
-    </section>
+    </section>-->
     <main>
         <form class="Login-CMS" action="">
             <section class="login-cms-head">
@@ -33,7 +33,6 @@
             </section>
         </form>
     </main>
-    <?php include '../footer/footer.php'; ?>
 </body>
 
 </html>

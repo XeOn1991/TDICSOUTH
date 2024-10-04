@@ -322,11 +322,15 @@ body,html {height: 100%;width: 100%;margin: 0;font-family: "Mitr", sans-serif;te
 /* Section : TDICS-Login */
 
 .Login-CMS {
+  position: fixed;
   display: flex;
   flex-direction: column;
   width: auto;
   height: auto;
   margin: 2rem;
+  top: 15%;
+  left: 0;
+  right: 0;
   background-color: rgba(217, 217, 217, 0.3);
   box-shadow: 6px 6px 12px 0px rgba(0, 0, 0, 0.2);
   text-align: center;

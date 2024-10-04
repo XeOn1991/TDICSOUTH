@@ -8,7 +8,7 @@
         <img id="index-header-logo" src="/Icon/tdics-logo.webp" alt="tdics logo" />
         <img id="index-header-menu" src="/Icon/menu.webp" alt="tdics menu" />
     </header>
-    <section class="index-article" style="display: flex; flex-direction:column;margin-top:12%;">
+    <section class="index-article" style="display: flex; flex-direction:column;margin-top:8%;">
         <header>
             <h1 style="text-align: center; margin: 0; font-size:8vw;">TDICS PRODUCTS</h1>
         </header>
@@ -23,66 +23,66 @@
         <section class="index-article">
             <article class="section-news">
                 <img class="img-product" src="/Icon/line.webp" alt="tdics news">
-                <article class="article-detail" style="display:flex; flex-wrap: wrap;margin-left: 1.5rem;">
-                    <h1 style="display:inline; margin:0;font-size: 5vw;">Type I</h1>
+                <article class="article-detail" style="display:flex; flex-wrap: wrap;flex-direction:column;">
+                    <h1 style="display:inline; margin:0;font-size: 6vw;">Type I</h1>
                     <h3 style="display:inline;margin:0;font-size: 3vw;">Descriptions and Features</h3>
-                    <p style="margin:0;font-size: 3vw;">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+                    <p style="margin:0;font-size: 2vw;">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
                     <h3 style="display:inline;margin:0;font-size: 3vw;">Specification</h3>
-                    <p style="margin:0;font-size: 3vw;">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+                    <p style="margin:0;font-size: 2vw;">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
                 </article>
             </article>
         </section>
         <section class="index-article">
             <article class="section-news">
                 <img class="img-product" src="/Icon/line.webp" alt="tdics news">
-                <article class="article-detail" style="display:flex; flex-wrap: wrap;margin-left: 1.5rem;">
-                    <h1 style="display:inline; margin:0;font-size: 5vw;">Type I</h1>
+                <article class="article-detail" style="display:flex; flex-wrap: wrap;flex-direction:column;">
+                    <h1 style="display:inline; margin:0;font-size: 6vw;">Type I</h1>
                     <h3 style="display:inline;margin:0;font-size: 3vw;">Descriptions and Features</h3>
-                    <p style="margin:0;font-size: 3vw;">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+                    <p style="margin:0;font-size: 2vw;">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
                     <h3 style="display:inline;margin:0;font-size: 3vw;">Specification</h3>
-                    <p style="margin:0;font-size: 3vw;">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+                    <p style="margin:0;font-size: 2vw;">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
                 </article>
             </article>
         </section>
         <section class="index-article">
             <article class="section-news">
                 <img class="img-product" src="/Icon/line.webp" alt="tdics news">
-                <article class="article-detail" style="display:flex; flex-wrap: wrap;margin-left: 1.5rem;">
-                    <h1 style="display:inline; margin:0;font-size: 5vw;">Type I</h1>
+                <article class="article-detail" style="display:flex; flex-wrap: wrap;flex-direction:column;">
+                    <h1 style="display:inline; margin:0;font-size: 6vw;">Type I</h1>
                     <h3 style="display:inline;margin:0;font-size: 3vw;">Descriptions and Features</h3>
-                    <p style="margin:0;font-size: 3vw;">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+                    <p style="margin:0;font-size: 2vw;">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
                     <h3 style="display:inline;margin:0;font-size: 3vw;">Specification</h3>
-                    <p style="margin:0;font-size: 3vw;">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+                    <p style="margin:0;font-size: 2vw;">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
                 </article>
             </article>
         </section>
         <section class="index-article">
             <article class="section-news">
                 <img class="img-product" src="/Icon/line.webp" alt="tdics news">
-                <article class="article-detail" style="display:flex; flex-wrap: wrap;margin-left: 1.5rem;">
-                    <h1 style="display:inline; margin:0;font-size: 5vw;">Type I</h1>
+                <article class="article-detail" style="display:flex; flex-wrap: wrap;flex-direction:column;">
+                    <h1 style="display:inline; margin:0;font-size: 6vw;">Type I</h1>
                     <h3 style="display:inline;margin:0;font-size: 3vw;">Descriptions and Features</h3>
-                    <p style="margin:0;font-size: 3vw;">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+                    <p style="margin:0;font-size: 2vw;">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
                     <h3 style="display:inline;margin:0;font-size: 3vw;">Specification</h3>
-                    <p style="margin:0;font-size: 3vw;">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+                    <p style="margin:0;font-size: 2vw;">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
                 </article>
             </article>
         </section>
         <section class="index-article">
             <article class="section-news">
                 <img class="img-product" src="/Icon/line.webp" alt="tdics news">
-                <article class="article-detail" style="display:flex; flex-wrap: wrap;margin-left: 1.5rem;">
-                    <h1 style="display:inline; margin:0;font-size: 5vw;">Type I</h1>
+                <article class="article-detail" style="display:flex; flex-wrap: wrap;flex-direction:column;">
+                    <h1 style="display:inline; margin:0;font-size: 6vw;">Type I</h1>
                     <h3 style="display:inline;margin:0;font-size: 3vw;">Descriptions and Features</h3>
-                    <p style="margin:0;font-size: 3vw;">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+                    <p style="margin:0;font-size: 2vw;">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
                     <h3 style="display:inline;margin:0;font-size: 3vw;">Specification</h3>
-                    <p style="margin:0;font-size: 3vw;">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+                    <p style="margin:0;font-size: 2vw;">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
                 </article>
             </article>
         </section>
-        <footer class="index-article">
+        <!--<footer class="index-article">
             <hr style="margin:0.5rem; border:1.5px solid #F5F5F5;border-radius: 5px;">
-        </footer>
+        </footer>-->
     </main>
     <?php include 'footer/footer.php'; ?>
 </body>

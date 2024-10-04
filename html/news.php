@@ -8,7 +8,7 @@
         <img id="index-header-logo" src="/Icon/tdics-logo.webp" alt="tdics logo" />
         <img id="index-header-menu" src="/Icon/menu.webp" alt="tdics menu" />
     </header>
-    <section class="index-article" style="display: flex; flex-direction:column;margin-top:12%;">
+    <section class="index-article" style="display: flex; flex-direction:column;margin-top:8%;">
         <header>
             <h1 style="text-align: center; margin: 0; font-size:8vw;">TDICS NEWS</h1>
         </header>
