@@ -613,6 +613,25 @@ td {
 }
 
 @media screen and (min-width: 1440px) {
+
+  .Login-CMS {
+    margin: 6rem 10rem 4rem 10rem;
+  }
+  #login-cms-scetion-img{
+    width: 30%;
+  }
+  #Username,#Password {
+    height: 4vh;
+    font-size: 25px;
+  }
+  .login-cms-user,.login-cms-password {
+    margin: 0 0 0 4rem;
+  }
+  .login-cms-btn {
+    margin-right: 4.3rem;
+    font-size: 25px;
+  }
+
   #index-header-logo, #index-header-menu {
     max-width: 5%;
   }
