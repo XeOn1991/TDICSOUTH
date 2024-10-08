@@ -42,10 +42,10 @@
                     </article>
                 </section>
             </article>
-            <footer>
+            <!--<footer>
                 <h4 style="text-align: right; margin: 0 0 1.5rem 0; font-size:2.5vw;">Read More</h4>
                 <hr style="margin:0.5rem; border:1.5px solid #F5F5F5;border-radius: 5px;">
-            </footer>
+            </footer>-->
         </article>
         <article class="index-product">
             <header>
@@ -77,10 +77,6 @@
                     </article>
                 </section>
             </article>
-            <footer>
-                <h4 style="text-align: right; margin: 0 0 1.5rem 0; font-size:2.5vw;">Read More</h4>
-                <hr style="margin:0.5rem; border:1.5px solid #F5F5F5;border-radius: 5px;">
-            </footer>
         </article>
         <article class="index-cert">
             <header>
@@ -109,10 +105,6 @@
                     </article>
                 </section>
             </article>
-            <footer>
-                <h4 style="text-align: right; margin: 0 0 1.5rem 0; font-size:2.5vw;">Read More</h4>
-                <hr style="margin:0.5rem; border:1.5px solid #F5F5F5;border-radius: 5px;">
-            </footer>
         </article>
         <article class="index-achie">
             <header>
@@ -163,10 +155,6 @@
                     </article>
                 </section>
             </article>
-            <footer>
-                <h4 style="text-align: right; margin: 0 0 1.5rem 0; font-size:2.5vw;">Read More</h4>
-                <hr style="margin:0.5rem; border:1.5px solid #F5F5F5;border-radius: 5px;">
-            </footer>
         </article>
     </main>
     <?php include 'footer/footer.php'; ?>

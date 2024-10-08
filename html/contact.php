@@ -38,9 +38,9 @@
                     <button id="contact-submit-button" type="button">Submit</button>
                 </section>
             </form>
-            <footer>
+            <!--<footer>
                 <hr style="margin:0.5rem; border:1.5px solid #F5F5F5;border-radius: 5px;">
-            </footer>
+            </footer>-->
         </section>
         <section class="index-contact">
             <article class="article-detail" style="text-align:center;">
@@ -50,9 +50,6 @@
             <article class="contact-map">
                 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1664.9368970705898!2d100.36753119381513!3d7.019910900834058!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x304d27d510bf7eeb%3A0x90737eca01ab49cd!2z4Lia4Lij4Li04Lip4Lix4LiXIOC4l-C4teC4lOC4tOC4gSDguYDguIvguLLguJfguYwg4LiI4Liz4LiB4Lix4LiU!5e0!3m2!1sen!2sth!4v1726203411370!5m2!1sen!2sth" width="100%" height="450" style="border:0;box-shadow: 4px 4px 4px 0px rgba(0, 0, 0, 0.2);border-radius: 5px;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
             </article>
-            <footer>
-                <hr style="margin:0.5rem; border:1.5px solid #F5F5F5;border-radius: 5px;">
-            </footer>
         </section>
         <section class="index-contact">
             <article class="article-detail" style="text-align:center;">
@@ -84,9 +81,6 @@
                     <p>Mon - Fri, 9AM - 5PM</p>
                 </section>
             </article>
-            <footer>
-                <hr style="margin:0.5rem; border:1.5px solid #F5F5F5;border-radius: 5px;">
-            </footer>
         </section>
     </main>
     <?php include 'footer/footer.php'; ?>

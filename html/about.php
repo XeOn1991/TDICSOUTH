@@ -24,9 +24,9 @@
                 <img class="img-news-secon" src="/Icon/line.webp" alt="tdics news" loading="lazy">
                 <img class="img-news-secon" src="/Icon/line.webp" alt="tdics news" loading="lazy">
             </figure>
-            <footer>
+            <!--<footer>
                 <hr style="margin:0.5rem; border:1.5px solid #F5F5F5;border-radius: 5px;">
-            </footer>
+            </footer>-->
         </section>
         <section class="index-article">
             <section class="section-ceo">
@@ -37,9 +37,6 @@
                     <p style="margin:0;font-size: 3vw;">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.</p>
                 </article>
             </section>
-            <footer>
-                <hr style="margin:0.5rem; border:1.5px solid #F5F5F5;border-radius: 5px;">
-            </footer>
         </section>
         <section class="index-article">
             <section class="section-history">
@@ -50,9 +47,6 @@
                     <p style="margin:0;font-size: 3vw;">“As a Leading Number one UF-Resin manufacturer in Thailand”</p>
                 </article>
             </section>
-            <footer>
-                <hr style="margin:0.5rem; border:1.5px solid #F5F5F5;border-radius: 5px;">
-            </footer>
         </section>
         <section class="index-article">
             <article class="section-news">
@@ -68,9 +62,6 @@
                 <img class="img-news-secon" src="/Icon/line.webp" alt="tdics news" loading="lazy">
                 <img class="img-news-secon" src="/Icon/line.webp" alt="tdics news" loading="lazy">
             </figure>
-            <footer>
-                <hr style="margin:0.5rem; border:1.5px solid #F5F5F5;border-radius: 5px;">
-            </footer>
         </section>
         <section class="index-article">
 

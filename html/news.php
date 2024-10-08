@@ -36,10 +36,10 @@
             <article class="article-detail" style="text-align:center;">
                 <p style="font-size: 2vw;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus faucibus orci ut purus placerat, a fringilla eros bibendum.</p>
             </article>
-            <footer>
+            <!--<footer>
                 <h1 style="text-align:right; font-size: 2vw;">Piyawat.K 09-09-2024</h1>
                 <hr style="margin:0.5rem; border:1.5px solid #F5F5F5;border-radius: 5px;">
-            </footer>
+            </footer>-->
         </section>
         <section class="index-article">
             <article class="article-detail" style="text-align:center;">
@@ -55,10 +55,6 @@
             <article class="article-detail" style="text-align:center;">
                 <p style="font-size: 2vw;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus faucibus orci ut purus placerat, a fringilla eros bibendum.</p>
             </article>
-            <footer>
-                <h1 style="text-align:right; font-size: 2vw;">Piyawat.K 09-09-2024</h1>
-                <hr style="margin:0.5rem; border:1.5px solid #F5F5F5;border-radius: 5px;">
-            </footer>
         </section>
         <section class="index-article">
             <article class="article-detail" style="text-align:center;">
@@ -74,10 +70,6 @@
             <article class="article-detail" style="text-align:center;">
                 <p style="font-size: 2vw;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus faucibus orci ut purus placerat, a fringilla eros bibendum.</p>
             </article>
-            <footer>
-                <h1 style="text-align:right; font-size: 2vw;">Piyawat.K 09-09-2024</h1>
-                <hr style="margin:0.5rem; border:1.5px solid #F5F5F5;border-radius: 5px;">
-            </footer>
         </section>
     </main>
     <?php include 'footer/footer.php'; ?>
